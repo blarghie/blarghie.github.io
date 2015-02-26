@@ -1,0 +1,317 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+/*	background-image: url(images/tD.jpg); */
+	background-repeat: repeat;
+	font-family: Helvetica, sans-serif;
+	letter-spacing: 0.5pt;
+	background-color:#000;
+	color:#fcfcfc;
+}
+
+#wrapper{
+	position: relative;
+	width: 960px;
+	height: auto;
+	padding-left: 5px;
+	font-size: 11px;
+	line-height: 16px;
+	font-weight: normal;
+}
+
+
+
+#typeArea {
+	font-size: 11px;
+	line-height: 16px;
+	font-weight: normal;
+}
+
+
+a:link, a:active{
+font-family:  Helvetica, sans-serif;
+font-size: 11px;
+line-height: 14px;
+color: #2ab80e;
+text-decoration: none;
+}
+
+a:visited{
+font-family:  Helvetica, sans-serif;
+font-size: 11px;
+line-height: 14px;
+color: #990000;
+text-decoration: none;
+}
+
+a:hover{
+color:#666;
+text-decoration: none;
+display: inline;
+
+}
+
+#greentype {
+	color: #2ab80e;
+}
+
+.greentype {
+	color: #2ab80e;
+}
+p.whttype {
+	color: #FFF;
+}
+
+.bkBox{
+	width: 350px;
+	color: #666;
+}
+
+p  { 
+	font-weight: normal; 
+	line-height: 16px;
+	padding:0 5px 10px 5px;
+}
+	
+
+.p3
+ {
+	display:block;
+	color: #666;
+	height: auto;
+	width: 340px;
+	padding-top:10px;
+}
+
+h1 {
+	display:block;
+	height: auto;
+	width: 350px;
+}
+
+.divider{
+	border:1px solid #c0c0c0;
+	width:350px;
+}
+
+#works{
+	font-size: 11px;
+	line-height: 16px;
+	color: #c0c0c0;
+	font-weight: normal;
+	display:block;
+	padding:10px 8px 10px 8px;
+
+}
+
+#works a img{
+	text-decoration: none;
+	border: none;
+}
+
+#works a:link {
+	font-size: 11px;
+	line-height: 16px;
+	color: #c0c0c0;
+	font-weight: normal;
+	border: none;
+
+	
+	
+}
+
+#works a:visited{
+	font-size: 11px;
+	line-height: 16px;
+	color: #c0c0c0;
+	font-weight: normal;
+	border: none;
+}
+
+#works a:hover{
+	font-size: 11px;
+	line-height: 16px;
+	color: #2ab80e;
+	font-weight: normal;
+	border: none;
+}
+
+#works a:active{
+	font-size: 11px;
+	line-height: 16px;
+	color: #2ab80e;
+	font-weight: normal;
+	border: none;
+
+}
+
+#links {
+position: absolute;
+bottom: 3px;
+left: 11px;
+display: block;
+font-size: 11px
+line-height: 13px;
+display:block;
+width: 350px;
+padding-left: 3px;
+}
+
+#links a {	
+	font-size: 11px;
+	line-height: 16px;
+	color: #8e0eb8;
+	font-weight: normal;
+	border: none;
+
+}
+
+#links a:hover {
+	font-size: 11px;
+	line-height: 16px;
+	color: #2ab80e;
+	font-weight: normal;
+	border: none;
+
+}
+
+
+
+.header {
+	font-size: 11px;
+	line-height: 16px;
+	font-weight: normal;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	height: 13px;
+	width: 345px;
+	/*background-color: #000000;*/
+	border-bottom:1px solid #666;
+
+
+}
+
+.blackbox {
+	background-color: #000000;
+	font-size: 11px;
+	height: auto;
+	width: 400px;
+	position: static;
+	color: #666666;
+	line-height: 16px;
+	float: left;
+
+}
+
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+
+}
+
+li {
+list-style-type: none;
+margin: 0;
+padding: 0;
+
+}
+
+#galleryBox{
+	position: fixed;
+	top: 300px;
+	left: 370px;
+	border:none;
+
+	}
+
+#jgal { 
+	list-style: none; 
+	width: 350px; 
+	}
+	
+#jgal li { 
+	opacity: .6; 
+	float: left; 
+	display: block; 
+	width: 100px; 
+	height: 30px; 
+	background-position: 40% 30%; 
+	cursor: pointer; 
+	border: none; 
+	margin-right: 14px; 
+	margin-bottom: 14px; 
+	}
+
+#jgal li.headThis{ 
+	display: block; 
+	}
+	
+#jgal li img { 
+	position: absolute; 
+	top: 205px; 
+	left: 370px; 
+	display: none; 
+	}
+#jgal li.active img { 
+	display: block; }
+	
+#jgal li.active, #jgal li:hover { 
+	outline-color: #bbb; 
+	opacity: .99 /* safari bug */ }
+
+/* styling without javascript */
+
+#gallery { 
+	list-style: none; 
+	display: block; 
+	}
+	
+#gallery li { 
+	float: left; 
+	margin: 0 10px 10px 0; 
+	}
+
+
+#indexImage{
+	position: absolute;
+	top:40px;
+	left: 260px;
+}
+
+#caption{
+	position:fixed;
+	font-size: 11px;
+	line-height: 16px;
+	text-align: left;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	bottom:0;
+	left:375px;
+	background-color:#000;
+	width:1000px;
+	
+}
+.orange{
+	font-size: 11px;
+	line-height: 16px;
+	color: #ff9933;
+	font-weight: normal;
+}
+
+.blue{
+	font-size: 11px;
+	line-height: 16px;
+	color: #0099cc;
+	font-weight: normal;
+}
+
+.red{
+	font-size: 11px;
+	line-height: 16px;
+	color: #990000;
+	font-weight: normal;
+}
+
