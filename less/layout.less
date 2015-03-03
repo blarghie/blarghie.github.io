@@ -4,7 +4,7 @@ body {
   background:#fff;/* rgb(238, 238, 238); */
   font-family: 'Ubuntu', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   line-height: 18px; 
   }
     
@@ -16,6 +16,23 @@ body {
   padding: 10px 20px 0 20px;
   border-top: 5px solid #000; }
   
+*/
+/*.gallery {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;  
+  
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+
+}
+
+.gallery > * {
+  padding: 10px;
+  flex: 1 100%;
+}
 */
 
 body .wrapper .navigation ul li a:hover {
@@ -73,7 +90,14 @@ pre[rel] {
     width:          calc((100% - 3em)/3);
     margin-right:   1em;
     margin-bottom:  1em;
-    text-align:     center;
+    img{
+      width:    100%;
+      height:   auto;
+      overflow: hidden;
+      margin-bottom: 10px;
+      margin-right:   auto;
+      margin-left:   auto;
+    } 
     }
 
 .col-md-3 {
@@ -84,17 +108,44 @@ pre[rel] {
     text-align:     center;
     }
 
-.col-md-5 {
+.col-md-4 {
     padding:        1em 0;
-    width:          calc((100% - 6em)/5);
-    margin-right:   1em;
+    width:          calc((100% - 5em)/4);
+    margin-right:   1.25em;
     margin-bottom:  1em;
-    text-align:     center;
-    }
+    overflow:       hidden;
+    img{
+      width:    auto;
+      height:   180px;
+      overflow: hidden;
+      text-align: center;
+      vertical-align: center;
+      margin-bottom: 10px
+    } 
+    
+}
+.overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(14, 19, 21, 0.95);
+  opacity: 0;
+  
+  text-align: center;
+  transition: all .2s ease-in-out;
+  
+}
+.work-description{
+/*  display: none;*/
+
+}
 
 .last-col{
     margin-right:   0;
     }
+
 
 .swatches{
     display:          block;
@@ -102,6 +153,10 @@ pre[rel] {
     background-color: @white;
     color:            @text-body;
 }   
+.work-descriptions{
+  padding:            1em;
+
+}
 
 .modal-actions{
   display: block;
