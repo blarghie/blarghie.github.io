@@ -3,9 +3,9 @@ body {
   /*color: rgb(206, 138, 138); muted red*/
   background:#fff;/* rgb(238, 238, 238); */
   font-family: 'Ubuntu', sans-serif;
-  font-weight: 400;
-  font-size: 13px;
-  line-height: 18px; 
+  font-weight:  300;
+  font-size:    13px;
+  line-height:  18px; 
   }
     
 /*body .wrapper .navigation ul li a {
@@ -36,18 +36,15 @@ body {
 */
 
 body .wrapper .navigation ul li a:hover {
-  border-top: 5px solid #FFF; }
-.wrapper{
-  margin:0;
-  padding:0;
-  }  
+  border-top: 5px solid #FFF; } 
+
 h1{
-  font-weight: 500;
-  font-size: 48px;
-  line-height: 52px;
-  margin-top:12px;
-  margin-bottom: 0;
-  display: inline-table;
+  font-weight:    500;
+  font-size:      48px;
+  line-height:    52px;
+  margin-top:     12px;
+  margin-bottom:  0;
+  display:        inline-table;
 /*
   background: url('../images/marie-01.png') no-repeat;
   width:28px;
@@ -68,14 +65,14 @@ ul, li {
 
 pre[rel] {
     margin-top:1em;
-    border-bottom: 1px solid rgba(0,0,0,.14902);
-    content: attr(rel);
+/*    border-bottom: 1px solid rgba(0,0,0,.14902);
+*/    content: attr(rel);
     width: 100%;
     padding: 5px 0;
     text-indent: 15px;  
 }
 .row{
-    margin:     2em 0;
+    margin:     0;
     }
 .col-md-1 {
     padding:        1em 0;
@@ -114,32 +111,49 @@ pre[rel] {
     margin-right:   1.25em;
     margin-bottom:  1em;
     overflow:       hidden;
+    display:        flex;
+    flex-flow:      row wrap;
     img{
-      width:    auto;
-      height:   180px;
-      overflow: hidden;
-      text-align: center;
+      width:          100%;
+      height:         auto;
+      overflow:       hidden;
+      text-align:     center;
       vertical-align: center;
-      margin-bottom: 10px
-    } 
-    
+      margin:         0 auto;
+      display:        block;
+    }    
 }
 .overlay{
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(14, 19, 21, 0.95);
-  opacity: 0;
-  
-  text-align: center;
+  position:   relative;
+  background: white;
+
+  .more{
+/*  display: none;*/
+    position:   absolute;
+    z-index:    2;
+    color:      @white;
+    top:        0;
+    padding:    1.6em;
+    visibility: hidden;
+  }
+}
+
+.overlay:hover{
+  background: rgba(0, 0, 0, 0.98);
   transition: all .2s ease-in-out;
+  img{
+    opacity: 0.3;
+    transition: all .2s ease-in-out;
+  }
+  .more{
+    visibility: visible;
+    transition: all .2s ease-in-out;
+    color:      @white;
+  }
   
 }
-.work-description{
-/*  display: none;*/
-
+.gallery{
+  background-color: white;
 }
 
 .last-col{
@@ -153,10 +167,6 @@ pre[rel] {
     background-color: @white;
     color:            @text-body;
 }   
-.work-descriptions{
-  padding:            1em;
-
-}
 
 .modal-actions{
   display: block;

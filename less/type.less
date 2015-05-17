@@ -1,0 +1,54 @@
+.work-description, .caption{
+	font-size: 		1em;
+	line-height: 	1.6em;
+	.title{
+	  font-size: 	2em;
+	  line-height:  1em;
+	  display: 		block;
+	}
+}
+a.lightRed:active, a.lightRed:link, a.lightRed:visited{
+  color: @red; /*lightRed*/
+}
+
+a.lightRed:hover{
+  color: 			@red; /*lightRed*/
+  text-decoration: 	underline;
+}
+
+a:visited, a:active, a:link{
+  color:           @text-body;
+  text-decoration: none;
+}
+a:hover{
+  color: darken(@red, 25%); /*lightRed*/
+}   
+.menu{
+	margin-bottom: 		12px;
+  	font-size: 			1.4em;
+  	line-height: 		1.4em;
+  	background-color: 	@white;
+  	color:				@text-body;
+  	a:visited, a:active, a:link{
+  		color:			@body;
+  	}
+  	a:hover{
+  		color:			@red;
+  	}
+
+  }
+.row {
+	a:visited, a:active, a:link{
+  		color:           @white;
+  		text-decoration: none;
+  	}
+  	a:hover{
+  		color:           @white;
+  		text-decoration: none;
+  	}
+}  
+.about{
+  width:		60%;
+  font-size: 	1.4em;
+  line-height: 	1.6em;
+}           
