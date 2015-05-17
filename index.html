@@ -10,7 +10,7 @@
 	
 	<link rel="stylesheet" type="text/css" media="all" href="styles/style-01.css"/> 
   <link rel="stylesheet" type="text/css" media="all" href="styles/responsive.css"/> 
-  <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500' rel='stylesheet' type='text/css' />
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500' rel='stylesheet' type='text/css' />
   
   <script src="js/jquery-1.10.2.min.js"></script>
 	<script src="js/lightbox-2.6.min.js"></script>
@@ -21,7 +21,7 @@
 <body>
 
   <div class="wrapper"> 
-    <div class="header">
+    <div class="header lg-dstop">
      <a href="index.html"><h1>marie azcueta</h1></a>
      <span class="small"> interactive designer/developer/illustrator</span>
      <div class="menu">
@@ -35,11 +35,11 @@
          </li>
 
          <li class="">
-            <a href="mobile.html" mixpanel.track("See Work");>Mobile Applications</a>
+            <a href="mobile.html" mixpanel.track("See Work");>Apps</a>
          </li>
 
          <li class="">
-            <a href="interactions.html" mixpanel.track("See Work");>UI Patterns & Interactions</a>
+            <a href="interactions.html" mixpanel.track("See Work");>Styleguide</a>
          </li>
 
          <li class="">
@@ -53,6 +53,38 @@
           <li class="pull-right">
               <a href="mailto:marieazc@gmail.com" mixpanel.track("Contact Marie");>Email</a>
          </li>                      
+
+       </ul>
+     </div> <!-- end menu -->
+    </div> <!-- end header -->
+
+    <div class="header sm-mobile">
+      <h1>
+      <a href="index.html" class="logo">marie azcueta</a> 
+      <a href="mailto:marieazc@gmail.com" mixpanel.track("Contact Marie"); class="email pull-right">email</a></a>
+     </h1>
+     
+     <div class="menu">
+       <ul>  
+         <li class="selected">
+            <a href="index.html" mixpanel.track("See Work");>All work</a>
+         </li>
+
+         <li class="">
+            <a href="dashboards.html" mixpanel.track("See Work");>Dashboards</a>
+         </li>
+
+         <li class="">
+            <a href="mobile.html" mixpanel.track("See Work");>Apps</a>
+         </li>
+
+         <li class="">
+            <a href="interactions.html" mixpanel.track("See Work");>Styleguide</a>
+         </li>
+
+         <li class="">
+            <a href="branding.html" mixpanel.track("See Work");>Branding</a>
+         </li>                
 
        </ul>
      </div> <!-- end menu -->

@@ -25,12 +25,19 @@ body .wrapper .navigation ul li a:hover {
   padding:0;
   }  
 h1{
-	font-weight: 500;
 	font-size: 48px;
-	line-height: 52px;
+	line-height: 28px;
 	margin-top:12px;
 	margin-bottom: 0;
 	display: inline-table;
+  background:     url('../images/marieazc-02.png') no-repeat;
+  padding-left: 32px;
+  a.logo{
+      font-weight: 500 !important;
+    }
+    a.email img{
+      font-weight: 300 !important;
+    }
 /*
 	background: url('../images/marie-01.png') no-repeat;
 	width:28px;
@@ -118,7 +125,7 @@ a:hover{
 	margin-bottom: 12px;
 	font-size: 1.4em;
 	line-height: 1.6em;
-	border-top:1px solid;
+	/*border-top:1px solid;*/
 	border-bottom:1px solid;
 	margin-top: 10px;
 

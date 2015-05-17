@@ -3,6 +3,9 @@
     width: 960px;
     margin: 0 auto; 
   }
+  .sm-mobile{
+    display: none !important;
+  }
   .gallery{
       -moz-column-count: 3;
       -moz-column-gap: 12px;
@@ -31,19 +34,24 @@
     width: 620px;
     margin: 0 auto; 
   }
+  .sm-mobile{
+    display: none !important;
+  }
   h1{
-	font-size: 32px;
-	line-height: 32px;
+  font-weight: 300;
+	font-size:       32px;
+	line-height:     32px;
 /* 	font-size:1.2em; */
-	text-align: center;
-	display: inline-block;
-	margin-bottom: 4px;
-	background: url('../images/marie.png') no-repeat;
-	width:204px;
-	padding-left:28px;
+	text-align:      center;
+	display:         block;
+	margin-bottom:   18px;
+	width:           100%;
+  background:     url('../images/marieazc-02.png') no-repeat 180px;
+  padding-left:   4px;
   }
   .small{
   	margin-top:0;
+    display: none !important;
   }
   .menu{
   }
@@ -78,20 +86,36 @@
 /*     background:rgb(238, 238, 238); */
   }
   .wrapper{
-     width: 300px;
+     width: 320px;
      margin: 0 auto;
   }
-  h1{
-	font-size: 32px;
-	line-height: 32px;
-/* 	font-size:1.2em; */
-	text-align: center;
-	display: inline-block;
-	margin-bottom: 4px;
-	background: url('../images/marie.png') no-repeat;
-	width:28px;
-	padding-left:32px;
+  .lg-dstop{
+    display: none !important;
   }
+  .sm-mobile{
+    display: inline-block !important;
+  }
+  h1{
+	font-size:   24px;
+  font-weight: 500 !important;
+/* 	font-size:1.2em; */
+	text-align: left;
+	display: inline-block;
+	margin-bottom: 32px;
+	background: url('../images/marieazc-02.png') no-repeat;
+	width: 90%;
+  padding-left: 34px;
+  }
+
+  a .logo{
+      font-weight: 500 !important;
+    }
+  a.email{
+    font-weight: 300 !important;
+    float: inline-block;
+    font-size: 20px;
+    }
+
   .small{
   	font-size:1.2em;
   	line-height: 1.4em;
