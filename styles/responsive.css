@@ -15,6 +15,9 @@
       column-gap: 12px
   }
   /* detail page */
+  h1{
+    font-weight:      300 !important;
+  }
   .work-description{
     width:300px;
     float:left;
@@ -38,7 +41,7 @@
     display: none !important;
   }
   h1{
-  font-weight: 300;
+  font-weight:     300;
 	font-size:       32px;
 	line-height:     32px;
 /* 	font-size:1.2em; */
@@ -81,12 +84,12 @@
 
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
   body{
 /*     background:rgb(238, 238, 238); */
   }
   .wrapper{
-     width: 320px;
+     width: 100%;
      margin: 0 auto;
   }
   .lg-dstop{
@@ -96,19 +99,19 @@
     display: inline-block !important;
   }
   h1{
-	font-size:   24px;
-  font-weight: 500 !important;
+	font-size:        24px;
+  font-weight:      300 !important;
 /* 	font-size:1.2em; */
-	text-align: left;
+	text-align:       left;
 	display: inline-block;
-	margin-bottom: 32px;
-	background: url('../images/marieazc-02.png') no-repeat;
-	width: 90%;
-  padding-left: 34px;
+	margin-bottom:    32px;
+	background:       url('../images/marieazc-02.png') no-repeat;
+	width:             90%;
+  padding-left:      34px;
   }
 
   a .logo{
-      font-weight: 500 !important;
+      font-weight: 300 !important;
     }
   a.email{
     font-weight: 300 !important;
@@ -124,7 +127,7 @@
   	text-indent:-999px;
   }
   .menu{
-  	font-size:1em;
+  	font-size:   1em;
   	line-height: 1.6em;
   	margin-bottom: 8px;
   	margin-top: 0;

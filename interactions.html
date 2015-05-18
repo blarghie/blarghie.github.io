@@ -10,7 +10,7 @@
 	
 	<link rel="stylesheet" type="text/css" media="all" href="styles/style-01.css"/> 
   <link rel="stylesheet" type="text/css" media="all" href="styles/responsive.css"/> 
-  <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500' rel='stylesheet' type='text/css' />
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500' rel='stylesheet' type='text/css' />
   
   <script src="js/jquery-1.10.2.min.js"></script>
 	<script src="js/lightbox-2.6.min.js"></script>
@@ -21,29 +21,29 @@
 <body>
 
   <div class="wrapper"> 
-    <div class="header">
+    <div class="header lg-dstop">
      <a href="index.html"><h1>marie azcueta</h1></a>
      <span class="small"> interactive designer/developer/illustrator</span>
      <div class="menu">
        <ul>  
          <li class="">
-            <a href="index.html" mixpanel.track("See Work");>All work</a>
-         </li>
-
-         <li class="">
             <a href="dashboards.html" mixpanel.track("See Work");>Dashboards</a>
          </li>
 
          <li class="">
-            <a href="mobile.html" mixpanel.track("See Work");>Mobile Applications</a>
+            <a href="mobile.html" mixpanel.track("See Work");>Apps</a>
          </li>
 
          <li class="selected">
-            <a href="interactions.html" mixpanel.track("See Work");>UI Patterns & Interactions</a>
+            <a href="interactions.html" mixpanel.track("See Work");>Styleguide</a>
          </li>
 
          <li class="">
             <a href="branding.html" mixpanel.track("See Work");>Branding</a>
+         </li>
+
+         <li class="">
+            <a href="all.html" mixpanel.track("See Work");>All work</a>
          </li>
 
          <li class="pull-right">
@@ -52,7 +52,43 @@
 
           <li class="pull-right">
               <a href="mailto:marieazc@gmail.com" mixpanel.track("Contact Marie");>Email</a>
-         </li>      
+         </li>
+
+
+       </ul>
+     </div> <!-- end menu -->
+    </div> <!-- end header -->
+
+    <div class="header sm-mobile">
+      <h1>
+      <a href="index.html" class="logo">marie azcueta</a> 
+      <a href="mailto:marieazc@gmail.com" mixpanel.track("Contact Marie"); class="email pull-right">email</a>
+     </h1>
+     
+     <div class="menu">
+       <ul>  
+         
+         <li class="">
+            <a href="dashboards.html" mixpanel.track("See Work");>Dashboards</a>
+         </li>
+
+         <li class="">
+            <a href="mobile.html" mixpanel.track("See Work");>Apps</a>
+         </li>
+
+         <li class="selected">
+            <a href="interactions.html" mixpanel.track("See Work");>Styleguide</a>
+         </li>
+
+         <li class="">
+            <a href="branding.html" mixpanel.track("See Work");>Branding</a>
+         </li>     
+
+         <li class="">
+            <a href="all.html" mixpanel.track("See Work");>All work</a>
+         </li>           
+
+       </ul>
      </div> <!-- end menu -->
     </div> <!-- end header -->
       
@@ -88,44 +124,44 @@
 
       <div class="gallery-box" title="" alt=""> 
         <div class="gallery-thumbnail">
-          <a href="images/beacon-demo-1.png" alt=""  class="title" data-lightbox="beacon demo" title="">Nomi Configuration App</a>
+          <a href="../images//beacon-demo-1.png" alt=""  class="title" data-lightbox="beacon demo" title="">Nomi Configuration App</a>
           <div class="gallery-image"> 
-            <a href="images/beacon-demo-1.png" alt=""  data-lightbox="beacon demo" title=""><img src="images/beacon-demo-1.png" /></a>
-            <a href="images/beacon-demo-1.png" alt=""  data-lightbox="beacon demo" title="Log in screen"></a>
-            <a href="images/beacon-demo-2.png" alt=""  data-lightbox="beacon demo" title="Initial Tap"></a>
-            <a href="images/beacon-demo-3.png" alt=""  data-lightbox="beacon demo" title="Demo 1"></a>
-            <a href="images/beacon-demo-4.png" alt=""  data-lightbox="beacon demo" title="Demo 2"></a>
-            <a href="images/beacon-demo-5.png" alt=""  data-lightbox="beacon demo" title="Demo 3"></a> 
+            <a href="../images//beacon-demo-1.png" alt=""  data-lightbox="beacon demo" title=""><img src="../images/beacon-demo-1.png" /></a>
+            <a href="../images//beacon-demo-1.png" alt=""  data-lightbox="beacon demo" title="Log in screen"></a>
+            <a href="../images//beacon-demo-2.png" alt=""  data-lightbox="beacon demo" title="Initial Tap"></a>
+            <a href="../images//beacon-demo-3.png" alt=""  data-lightbox="beacon demo" title="Demo 1"></a>
+            <a href="../images//beacon-demo-4.png" alt=""  data-lightbox="beacon demo" title="Demo 2"></a>
+            <a href="../images//beacon-demo-5.png" alt=""  data-lightbox="beacon demo" title="Demo 3"></a> 
           </div>         
           <div class="caption">
-             Nomi presents retail traffic analytics in dashboards via wifi and bluetooth sensors. As another way to collect data and also engage users Nomi developed Beacons that a user can interact with and retailers can push messaging to. The Nomi Beacon App allows users to configure Nomi beacons and demo available functionality such as tapping and seeing devices in range. <a href="images/beacon-demo-1.png" alt=""  data-lightbox="beacon demo" title="">Click here for more…</a>
+             Nomi presents retail traffic analytics in dashboards via wifi and bluetooth sensors. As another way to collect data and also engage users Nomi developed Beacons that a user can interact with and retailers can push messaging to. The Nomi Beacon App allows users to configure Nomi beacons and demo available functionality such as tapping and seeing devices in range. <a href="../images//beacon-demo-1.png" alt=""  data-lightbox="beacon demo" title="">Click here for more…</a>
           </div>
         </div>
       </div>
 
       <div class="gallery-box" title="" alt=""> 
         <div class="gallery-thumbnail">
-          <a href="images/Nomi/dates.jpg" alt=""  class="title" data-lightbox="dates" title="">Date Selector Interaction</a>
+          <a href="../images//Nomi/dates.jpg" alt=""  class="title" data-lightbox="dates" title="">Date Selector Interaction</a>
           <div class="gallery-image"> 
-            <a href="images/Nomi/dates.jpg" alt=""  data-lightbox="beacon demo" title=""><img src="images/Nomi/dates.jpg" /></a>
-            <a href="images/Nomi/dates.jpg" alt=""  data-lightbox="dates" title="Log in screen"></a>
+            <a href="../images//Nomi/dates.jpg" alt=""  data-lightbox="beacon demo" title=""><img src="../images/Nomi/dates.jpg" /></a>
+            <a href="../images//Nomi/dates.jpg" alt=""  data-lightbox="dates" title="Log in screen"></a>
             
           </div>         
           <div class="caption">
-             Updating a date selector within the product<a href="images/Nomi/dates.jpg" alt=""  data-lightbox="dates" title="">Click here for more…</a>
+             Updating a date selector within the product<a href="../images//Nomi/dates.jpg" alt=""  data-lightbox="dates" title="">Click here for more…</a>
           </div>
         </div>
       </div>
       
       <div href="#" class="gallery-box" title="" alt=""> 
         <div class="gallery-thumbnail">
-          <a href="images/post-photo-04.png" alt="" class="title" data-lightbox="patch-post" title="">Inline Posting Interface</a>
+          <a href="../images//post-photo-04.png" alt="" class="title" data-lightbox="patch-post" title="">Inline Posting Interface</a>
           <div class="gallery-image"> 
-             <a href="images/post-photo-04.png" alt=""  data-lightbox="patch-post" title=""><img src="images/post-photo-04.png" alt="" title="" /></a>
-             <a href="images/post-photo-01.png" alt=""  data-lightbox="patch-post" title="Posting widget"></a>
-             <a href="images/post-photo-02.png" alt=""  data-lightbox="patch-post" title="Photo post form"></a>
-             <a href="images/post-photo-03.png" alt=""  data-lightbox="patch-post" title="Adding an image to the photo post form"></a>
-             <a href="images/post-photo-04.png" alt=""  data-lightbox="patch-post" title="An uploaded image being displayed in the form"></a>
+             <a href="../images//post-photo-04.png" alt=""  data-lightbox="patch-post" title=""><img src="../images/post-photo-04.png" alt="" title="" /></a>
+             <a href="../images//post-photo-01.png" alt=""  data-lightbox="patch-post" title="Posting widget"></a>
+             <a href="../images//post-photo-02.png" alt=""  data-lightbox="patch-post" title="Photo post form"></a>
+             <a href="../images//post-photo-03.png" alt=""  data-lightbox="patch-post" title="Adding an image to the photo post form"></a>
+             <a href="../images//post-photo-04.png" alt=""  data-lightbox="patch-post" title="An uploaded image being displayed in the form"></a>
           </div>         
           <div class="caption">
             One of the posting interface explorations I worked on, featuring large and enticing calls to action and fill-in-line forms.    
@@ -135,9 +171,9 @@
       
       <div href="#" class="gallery-box" title="" alt=""> 
         <div class="gallery-thumbnail">
-          <a href="images/patch-boards-00.jpg" alt="" class="title" data-lightbox="patch-boards-feed" title="">Short Post Feed Interactions and States</a>
+          <a href="../images//patch-boards-00.jpg" alt="" class="title" data-lightbox="patch-boards-feed" title="">Short Post Feed Interactions and States</a>
           <div class="gallery-image"> 
-             <a href="images/patch-boards-00.jpg" alt=""  data-lightbox="patch-boards-feed" title=""><img src="images/patch-boards-00.jpg" alt="" title="Recommending interaction with feed items" /></a>
+             <a href="../images//patch-boards-00.jpg" alt=""  data-lightbox="patch-boards-feed" title=""><img src="../images/patch-boards-00.jpg" alt="" title="Recommending interaction with feed items" /></a>
           </div>         
           <div class="caption">
             This implementation of the interface is to prove how a clean design if interacted with would reveal actions a user can take if they desire to reply to a post or "recommend" it. After having sketched a few possibilities of interactions for this interface, including exposing the actions, representing those actions with an icon, etc. We decided to go the clean and uncluttered approach.    
