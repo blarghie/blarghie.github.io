@@ -12,7 +12,7 @@ We designed canned reports specifically to the users who want to easily digest t
 </div>
 
 <div class="images">
-	<img src="{{ base.url }}/images/Nomi/Nomi-redesign-01.png" />
+	<img src="{{ base.url }}/images/Nomi/nomi-redesign-01.png" />
 </div>
 <div class="text-block small">
 <ul class="sketch">
@@ -34,10 +34,10 @@ Additionally, I built an HTML prototype that also served as a demo for the NRF t
 
 </div>
 <div class="images">
-	<img src="{{ base.url }}/images/Nomi/Nomi-redesign-02.png" />
-	<img src="{{ base.url }}/images/Nomi/Nomi-redesign-03.png" />
-	<img src="{{ base.url }}/images/Nomi/Nomi-redesign-04.png" />
-	<img src="{{ base.url }}/images/Nomi/Nomi-redesign-05.png" />
+	<img src="{{ base.url }}/images/Nomi/nomi-redesign-02.png" />
+	<img src="{{ base.url }}/images/Nomi/nomi-redesign-03.png" />
+	<img src="{{ base.url }}/images/Nomi/nomi-redesign-04.png" />
+	<img src="{{ base.url }}/images/Nomi/nomi-redesign-05.png" />
 </div>
 
 
