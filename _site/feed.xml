@@ -11,19 +11,42 @@
         <description>&lt;div class=&quot;text-block&quot;&gt;
 The Listen Grid was my initial attempt to organize the data we collect in a manner that our users would be able to view &amp;amp; manipulate it. After a year, we learned a lot about our users and how they use our product, mostly that they needed their associates to be able to analyze the data we collect without spending too much time on it. We then came up with  reports that made the data we have more digestible. &lt;br /&gt;&lt;br /&gt;
 
-We designed canned reports specifically to the users who want to easily digest the data we presented. We gave them what we thought they needed: charts of trending days and hours of highest and average traffic over time and the hours in the day where foot traffic was heavier. 
+We designed canned reports specifically to the users who want to easily digest the data we presented. We gave them what we thought they needed: charts of trending days and hours of highest and average traffic over time and the hours in the day where foot traffic was heavier. &lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
 
-&lt;br /&gt;&lt;br /&gt;Additionally, I built an HTML prototype that also served as a demo for the NRF trade show this past January. Let me know if you&#39;re interested in seeing that and I&#39;ll pass on a url.
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Nomi/Nomi-redesign-01.png&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;text-block small&quot;&gt;
+&lt;ul class=&quot;sketch&quot;&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-01.png&quot; /&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-02.png&quot; /&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-03.png&quot; /&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-04.png&quot; /&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-05.png&quot; /&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-06.png&quot; /&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+Additionally, I built an HTML prototype that also served as a demo for the NRF trade show this past January. Let me know if you&#39;re interested in seeing that and I&#39;ll pass on a url.
+
 &lt;/div&gt;
 &lt;div class=&quot;images&quot;&gt;
-&lt;img src=&quot;/images/Nomi/operations-01.png&quot; /&gt;
-&lt;img src=&quot;/images/Nomi/operations-03.png&quot; /&gt;
-&lt;img src=&quot;/images/Nomi/operations-04.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Nomi-redesign-02.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Nomi-redesign-03.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Nomi-redesign-04.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Nomi-redesign-05.png&quot; /&gt;
 &lt;/div&gt;
+
 </description>
         <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/nomi/dashboards/redesign/nomi-redesign.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/nomi/dashboards/redesign/nomi-redesign.html</guid>
+        <link>http://marieazcueta.com/dashboard/nomi-redesign.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/dashboard/nomi-redesign.html</guid>
       </item>
     
       <item>
@@ -33,54 +56,23 @@ Nomi’s Operations Dashboard is where we display data we collect from our camer
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
-&lt;img src=&quot;/images/Nomi/operations-000.png&quot; /&gt;
-&lt;img src=&quot;/images/Nomi/operations-001.png&quot; /&gt;
-&lt;img src=&quot;/images/Nomi/operations-002.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/operations-000.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/operations-001.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/operations-002.png&quot; /&gt;
 &lt;/div&gt;
-&lt;div class=&quot;text-block small&quot;&gt;
 
+&lt;div class=&quot;text-block small&quot;&gt;
 A store profile page meanwhile is a drill in for COOs and an overview for a store manager into the status of their individual store.
 &lt;/div&gt;
+
 &lt;div class=&quot;images&quot;&gt;
-&lt;img src=&quot;/images/Nomi/operations-003.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/operations-003.png&quot; /&gt;
 &lt;/div&gt;
 
 </description>
         <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/nomi/redesign/nomi-listen.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/nomi/redesign/nomi-listen.html</guid>
-      </item>
-    
-      <item>
-        <title>Nomi Demo Apps</title>
-        <description>&lt;div class=&quot;text-block&quot;&gt;
-Our team collaborated to create beacon use cases to demo in app experiences. In it users would be able to interact with beacon merchandise. If a user has the store app or a partner&#39;s app.Interacting with the merchandise with a tap of a user’s phone would pull up the information about that product &amp;amp; a discount on that product. 
-
-&lt;br /&gt;&lt;br /&gt;In the QSR case we developed a loyalty program wherein as the user approached the register to pay for her food; she wood tap on a device that would &quot;punch&quot; her store card, leading up to promotions.
-&lt;ul class=&quot;sketch&quot;&gt;
-
-	&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-01.png&quot; /&gt;
-	&lt;/li&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-02.png&quot; /&gt;
-	&lt;/li&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-03.png&quot; /&gt;
-	&lt;/li&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-04.png&quot; /&gt;
-	&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/Nike-01.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Nike-02.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Nike-03.png&quot; /&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/nomi/dashboards/redesign/nomi-demo-apps.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/nomi/dashboards/redesign/nomi-demo-apps.html</guid>
+        <link>http://marieazcueta.com/dashboard/nomi-listen.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/dashboard/nomi-listen.html</guid>
       </item>
     
       <item>
@@ -119,68 +111,187 @@ After the user registers their beacon they&#39;ll have the following options to 
 
 </description>
         <pubDate>Tue, 26 May 2015 19:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/nomi/apps/nomi-apps.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/nomi/apps/nomi-apps.html</guid>
+        <link>http://marieazcueta.com/apps/nomi-apps.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/apps/nomi-apps.html</guid>
       </item>
     
       <item>
         <title>Patch Redesign</title>
-        <description>&lt;p&gt;The store view is a store manager’s dashboard for what’s going on in their store. They can upload their floor plan and see how many people go through  specific sections within the store. &lt;/p&gt;
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage.&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://marieazcueta.com/images/Patch/homepage-01.png&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Patch/redesign-01.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block small&quot;&gt;
+At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. &lt;br /&gt;&lt;br /&gt;
+	&lt;ul class=&quot;sketch&quot;&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-04.jpg&quot; /&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-02.png&quot; /&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-03.jpg&quot; /&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Patch/redesign-02.png&quot; /&gt;
+&lt;/div&gt;
 
 </description>
         <pubDate>Tue, 26 May 2015 17:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/patch/redesign/patch-redesign.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/patch/redesign/patch-redesign.html</guid>
+        <link>http://marieazcueta.com/dashboard/patch-redesign.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/dashboard/patch-redesign.html</guid>
       </item>
     
       <item>
         <title>Patch Perks App</title>
-        <description>&lt;p&gt;The store view is a store manager’s dashboard for what’s going on in their store. They can upload their floor plan and see how many people go through  specific sections within the store. &lt;/p&gt;
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+Is an app built on allowing users to subscribe to small businesses&#39; newsletters in turn receiving a reward for making purchase&lt;br /&gt;&lt;br /&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://marieazcueta.com/images/Patch/homepage-01.png&quot; /&gt;&lt;/p&gt;
+We designed canned reports specifically to the users who want to easily digest the data we presented. We gave them what we thought they needed: charts of trending days and hours of highest and average traffic over time and the hours in the day where foot traffic was heavier. 
+
+&lt;/div&gt;
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Patch/Perks-06.png&quot; /&gt;
+	&lt;img src=&quot;/images/Patch/Perks-01.png&quot; /&gt;
+	&lt;img src=&quot;/images/Patch/Perks-02.png&quot; /&gt;
+	&lt;img src=&quot;/images/Patch/Perks-03.png&quot; /&gt;
+	&lt;img src=&quot;/images/Patch/Perks-04.png&quot; /&gt;
+	&lt;img src=&quot;/images/Patch/Perks-05.png&quot; /&gt;
+&lt;/div&gt;
 
 </description>
         <pubDate>Tue, 26 May 2015 16:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/patch/mobile/patch-perks.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/patch/mobile/patch-perks.html</guid>
+        <link>http://marieazcueta.com/apps/patch-perks.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/apps/patch-perks.html</guid>
+      </item>
+    
+      <item>
+        <title>Nomi Demo Apps</title>
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+Our team collaborated to create beacon use cases to demo in app experiences. In it users would be able to interact with beacon merchandise. If a user has the store app or a partner&#39;s app.Interacting with the merchandise with a tap of a user’s phone would pull up the information about that product &amp;amp; a discount on that product. 
+&lt;/div&gt;
+
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Nomi/Nike-01.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block small&quot;&gt;
+	&lt;br /&gt;&lt;br /&gt;In the QSR case we developed a loyalty program wherein as the user approached the register to pay for her food; she wood tap on a device that would &quot;punch&quot; her store card, leading up to promotions.
+	&lt;ul class=&quot;sketch&quot;&gt;
+
+		&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-01.png&quot; /&gt;
+		&lt;/li&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-02.png&quot; /&gt;
+		&lt;/li&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-03.png&quot; /&gt;
+		&lt;/li&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-04.png&quot; /&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Nomi/Nike-02.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Nike-03.png&quot; /&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 26 May 2015 16:00:00 -0400</pubDate>
+        <link>http://marieazcueta.com/apps/nomi-demo-apps.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/apps/nomi-demo-apps.html</guid>
       </item>
     
       <item>
         <title>Patch Mobile First Redesign</title>
-        <description>&lt;p&gt;The store view is a store manager’s dashboard for what’s going on in their store. They can upload their floor plan and see how many people go through  specific sections within the store. &lt;/p&gt;
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+The store view is a store manager’s dashboard for what’s going on in their store. They can upload their floor plan and see how many people go through  specific sections within the store. &lt;br /&gt;&lt;br /&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://marieazcueta.com/images/Patch/homepage-01.png&quot; /&gt;&lt;/p&gt;
+&lt;ul class=&quot;sketch&quot;&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-blue-00.jpg&quot; /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-blue-02.jpg&quot; /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-01.png&quot; /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-02.png&quot; /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-03.png&quot; /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-04.png&quot; /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-05.png&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Patch/news-app-01.png&quot; /&gt;
+	&lt;img src=&quot;/images/Patch/news-app-02.png&quot; /&gt;
+	&lt;img src=&quot;/images/Patch/news-app-03.png&quot; /&gt;
+	&lt;img src=&quot;/images/Patch/news-app-04.png&quot; /&gt;
+	&lt;img src=&quot;/images/Patch/news-app-05.png&quot; /&gt;
+
+&lt;/div&gt;
 
 </description>
         <pubDate>Tue, 26 May 2015 14:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/patch/apps/patch-apps.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/patch/apps/patch-apps.html</guid>
+        <link>http://marieazcueta.com/apps/patch-apps.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/apps/patch-apps.html</guid>
+      </item>
+    
+      <item>
+        <title>Nomi Styleguide</title>
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+Styleguide here
+&lt;/div&gt;
+
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Nomi/styleguide-00.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/styleguide-02.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/styleguide-03.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/styleguide-04.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/styleguide-05.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/styleguide-06.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/styleguide-07.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/styleguide-08.png&quot; /&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
+        <link>http://marieazcueta.com/styleguide/nomi-styleguide.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/styleguide/nomi-styleguide.html</guid>
       </item>
     
       <item>
         <title>Measure Dashboard</title>
-        <description>&lt;p&gt;Nomi’s most sought after product is the Operations Dashboard. Where we display traffic data we collect from our hardware for COOs &amp;amp; store managers to be able to get analysis on store displays, optimize opening &amp;amp; closing hours &amp;amp; when to put more associates on the floor based off of foot traffic.&lt;/p&gt;
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+Nomi’s event watching software allows Event Managers to see how effective their campaigns are by showing what percentage of their customers are coming back after an event and if they become loyal customers after that. It also shows what percentage of visitors in the past 30 day attribution period  have come back &amp;amp; have been “reactivated” by an on-going campaign. In addition to this dashboard I also designed a campaign creation experience that walks the user through the setup process.
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://marieazcueta.com/images/Nomi/operations-01.png&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-00.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-01.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-02.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-03.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-04.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-05.png&quot; /&gt;
+&lt;/div&gt;
 
 </description>
         <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/nomi/dashboards/nomi-grid.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/nomi/dashboards/nomi-grid.html</guid>
+        <link>http://marieazcueta.com/dashboard/nomi-event.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/dashboard/nomi-event.html</guid>
       </item>
     
       <item>
         <title>Patch Styleguide</title>
-        <description>&lt;p&gt;The store view is a store manager’s dashboard for what’s going on in their store. They can upload their floor plan and see how many people go through  specific sections within the store. &lt;/p&gt;
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+The store view is a store manager’s dashboard for what’s going on in their store. They can upload their floor plan and see how many people go through  specific sections within the store. &lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://marieazcueta.com/images/Patch/homepage-01.png&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Patch/styleguide.png&quot; /&gt;
+&lt;/div&gt;
 
 </description>
         <pubDate>Tue, 26 May 2015 12:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/patch/redesign/patch-styleguide.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/patch/redesign/patch-styleguide.html</guid>
+        <link>http://marieazcueta.com/styleguide/patch-styleguide.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/styleguide/patch-styleguide.html</guid>
       </item>
     
   </channel>

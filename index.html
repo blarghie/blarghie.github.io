@@ -1,30 +1,89 @@
 ---
 layout: default
 ---
+<header class="wrapper homepage">
+<div class="header lg-dstop">
+     <a href="{{ base.url }}/index.html"><h1>marie azcueta</h1></a><br />
+     <span class="small"> interactive designer/developer/illustrator</span>
+    </div> <!-- end header -->
+
+    <div class="header sm-mobile">
+      <h1>
+      <a href="index.html" class="logo">marie azcueta</a> 
+      <a href="mailto:marieazc@gmail.com" mixpanel.track("Contact Marie"); class="email pull-right">email</a>
+     </h1>
+    </div> <!-- end header -->
+</header>
+
 
 <div class="home wrapper">
-  <ul class="gallery">
-  {% for post in site.posts %}
+<ul class="gallery">
     <li class="gallery-box">
-      <div class="gallery-thumbnail">
-      <a class="title" href="{{ post.url }}">{{ post.title }}</a>
-      <div class="gallery-image"> 
-      {% assign foundImage = 0 %}
-      {% assign images = post.content | split:"<img " %}
-      {% for image in images %}
-        {% if image contains 'src' %}
+      {% for post in site.categories.apps limit:1 %}  
+        <div class="gallery-thumbnail">
+        <a class="title homepage-titles orange" href="/category/apps/">{{ post.categories }}</a>
+        <div class="gallery-image homepage-thumb"> 
+        {% assign foundImage = 0 %}
+        {% assign images = post.content | split:"<img " %}
+        {% for image in images %}
+          {% if image contains 'src' %}
 
-            {% if foundImage == 0 %}
-                {% assign html = image | split:"/>" | first %}
-                <img {{ html }} />
-                {% assign foundImage = 1 %}
-            {% endif %}
-        {% endif %}
-      {% endfor %}
+              {% if foundImage == 0 %}
+                  {% assign html = image | split:"/>" | first %}
+                  <img {{ html }} />
+                  {% assign foundImage = 1 %}
+              {% endif %}
+          {% endif %}
+        {% endfor %}
+          </div>
         </div>
-      </div>
-    </li>
-  {% endfor %}
-</ul>
+        {% endfor %}
+      </li>
+
+      <li class="gallery-box">
+      {% for post in site.categories.dashboard limit:1 %}  
+        <div class="gallery-thumbnail">
+        <a class="title homepage-titles pink" href="/category/dashboard/">{{ post.categories }}</a>
+        <div class="gallery-image homepage-thumb"> 
+        {% assign foundImage = 0 %}
+        {% assign images = post.content | split:"<img " %}
+        {% for image in images %}
+          {% if image contains 'src' %}
+
+              {% if foundImage == 0 %}
+                  {% assign html = image | split:"/>" | first %}
+                  <img {{ html }} />
+                  {% assign foundImage = 1 %}
+              {% endif %}
+          {% endif %}
+        {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
+      </li>
+
+      <li class="gallery-box">
+      {% for post in site.categories.styleguide limit:1 %}  
+        <div class="gallery-thumbnail">
+        <a class="title homepage-titles teal" href="/category/styleguide">{{ post.categories }}</a>
+        <div class="gallery-image homepage-thumb"> 
+        {% assign foundImage = 0 %}
+        {% assign images = post.content | split:"<img " %}
+        {% for image in images %}
+          {% if image contains 'src' %}
+
+              {% if foundImage == 0 %}
+                  {% assign html = image | split:"/>" | first %}
+                  <img {{ html }} />
+                  {% assign foundImage = 1 %}
+              {% endif %}
+          {% endif %}
+        {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
+      </li>
+ 
+  </ul>
 
 </div>
