@@ -1,0 +1,17 @@
+---
+layout: page
+date:   2015-05-26 21:26:20
+categories: nomi dashboards
+---
+
+<ul>
+{% for post in site.category[page.category] %}
+  <li>
+    {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com
