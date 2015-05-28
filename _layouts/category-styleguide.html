@@ -53,9 +53,10 @@ layout: default
 <div class="wrapper">
 	<ul>
 	{% for post in site.categories.styleguide %}
+	<a href="{{ post.url }}">
 	  <li class="gallery-box">
 	      <div class="gallery-thumbnail">
-	      <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+	      <div class="title cat-titles teal">{{ post.title }}</div>
 	      <div class="gallery-image"> 
 	      {% assign foundImage = 0 %}
 	      {% assign images = post.content | split:"<img " %}
@@ -72,6 +73,7 @@ layout: default
 	        </div>
 	      </div>
 	    </li>
+	    </a>
 	{% endfor %}
 	</ul>
 

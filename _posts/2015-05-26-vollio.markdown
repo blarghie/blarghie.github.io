@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Vollio Design"
+date:   2015-05-26 24:00:00
+categories: ['Branding']
+tags: ['Branding', 'Login']
+---
+<div class="text-block">
+I designed Vollio’s brand and logo. The brand speaks to the empowering of a generation to share their time with groups to volunteer and help where they are needed. The product was established because of how the founders felt about a lack of organization & visibility of current organizations.<br /><br />
+</div>
+
+<div class="images">
+
+	<img src="{{ base.url }}/images/Vollio/vollio-00.png" />
+	<img src="{{ base.url }}/images/Vollio/vollio-01.png" />
+	<img src="{{ base.url }}/images/Vollio/vollio-02.png" />
+</div>
+
+
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com

@@ -7,6 +7,25 @@
     <atom:link href="http://marieazcueta.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Vollio Design</title>
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+I designed Vollio’s brand and logo. The brand speaks to the empowering of a generation to share their time with groups to volunteer and help where they are needed. The product was established because of how the founders felt about a lack of organization &amp;amp; visibility of current organizations.&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;images&quot;&gt;
+
+	&lt;img src=&quot;/images/Vollio/vollio-00.png&quot; /&gt;
+	&lt;img src=&quot;/images/Vollio/vollio-01.png&quot; /&gt;
+	&lt;img src=&quot;/images/Vollio/vollio-02.png&quot; /&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
+        <link>http://marieazcueta.com/branding/vollio.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/branding/vollio.html</guid>
+      </item>
+    
+      <item>
         <title>Nomi Redesign</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
 The Listen Grid was my initial attempt to organize the data we collect in a manner that our users would be able to view &amp;amp; manipulate it. After a year, we learned a lot about our users and how they use our product, mostly that they needed their associates to be able to analyze the data we collect without spending too much time on it. We then came up with  reports that made the data we have more digestible. &lt;br /&gt;&lt;br /&gt;
@@ -73,6 +92,25 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
         <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
         <link>http://marieazcueta.com/dashboard/nomi-listen.html</link>
         <guid isPermaLink="true">http://marieazcueta.com/dashboard/nomi-listen.html</guid>
+      </item>
+    
+      <item>
+        <title>Error Messages</title>
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+I designed Vollio’s brand and logo. The brand speaks to the empowering of a generation to share their time with groups to volunteer and help where they are needed. The product was established because of how the founders felt about a lack of organization &amp;amp; visibility of current organizations.&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Nomi/error-01.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/error-02.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/error-03.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/error-04.png&quot; /&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
+        <link>http://marieazcueta.com/illustrations/error-pages.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/illustrations/error-pages.html</guid>
       </item>
     
       <item>
@@ -255,43 +293,6 @@ Styleguide here
         <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
         <link>http://marieazcueta.com/styleguide/nomi-styleguide.html</link>
         <guid isPermaLink="true">http://marieazcueta.com/styleguide/nomi-styleguide.html</guid>
-      </item>
-    
-      <item>
-        <title>Measure Dashboard</title>
-        <description>&lt;div class=&quot;text-block&quot;&gt;
-Nomi’s event watching software allows Event Managers to see how effective their campaigns are by showing what percentage of their customers are coming back after an event and if they become loyal customers after that. It also shows what percentage of visitors in the past 30 day attribution period  have come back &amp;amp; have been “reactivated” by an on-going campaign. In addition to this dashboard I also designed a campaign creation experience that walks the user through the setup process.
-&lt;/div&gt;
-
-&lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-00.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-01.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-02.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-03.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-04.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-05.png&quot; /&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/dashboard/nomi-event.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/dashboard/nomi-event.html</guid>
-      </item>
-    
-      <item>
-        <title>Patch Styleguide</title>
-        <description>&lt;div class=&quot;text-block&quot;&gt;
-The store view is a store manager’s dashboard for what’s going on in their store. They can upload their floor plan and see how many people go through  specific sections within the store. &lt;br /&gt;&lt;br /&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Patch/styleguide.png&quot; /&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 26 May 2015 12:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/styleguide/patch-styleguide.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/styleguide/patch-styleguide.html</guid>
       </item>
     
   </channel>

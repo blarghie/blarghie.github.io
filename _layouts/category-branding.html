@@ -1,32 +1,30 @@
 ---
 layout: default
 ---
-<header class="wrapper ">
-<div class="header lg-dstop">
-     <a href="{{ base.url }}/index.html"><h1>marie azcueta</h1></a>
-     <span class="small"> interactive designer/developer/illustrator</span>
+<header class="wrapper">
+	<div class="header lg-dstop">
+	  <a href="{{ base.url }}/index.html"><h1>marie azcueta</h1></a>
+	  <span class="small"> interactive designer/developer/illustrator</span>
 
-     <div class="menu">
-       <ul>  
+	     <div class="menu">
+	       <ul>  
 
-       {% for category in site.categories %}
-            <li class="categories-title">
-                <a href="/category/{{ category | first }}">{{ category | first }}</a>
-            </li>   
-        {% endfor %}
-        
-         <li class="pull-right">
-              <a href="about.html">| About Marie</a>
-         </li>
+	       {% for category in site.categories %}
+	            <li class="categories-title">
+	                <a href="/category/{{ category | first }}">{{ category | first }}</a>
+	            </li>   
+	        {% endfor %}
+	        
+	         <li class="pull-right">
+	              <a href="about.html">| About Marie</a>
+	         </li>
 
-          <li class="pull-right">
-              <a href="mailto:marieazc@gmail.com" mixpanel.track("Contact Marie");>Email</a>
-         </li>
-
-
-       </ul>
-     </div> <!-- end menu -->
-    </div> <!-- end header -->
+	          <li class="pull-right">
+	              <a href="mailto:marieazc@gmail.com" mixpanel.track("Contact Marie");>Email</a>
+	         </li>
+	       </ul>
+	     </div> <!-- end menu -->
+	</div> <!-- end header -->
 
     <div class="header sm-mobile">
       <h1>
@@ -54,11 +52,11 @@ layout: default
 
 <div class="wrapper">
 	<ul>
-	{% for post in site.categories.apps %}
-    <a href="{{ post.url }}">
+	{% for post in site.categories.branding %}
+	<a href="{{ post.url }}">
 	  <li class="gallery-box">
 	      <div class="gallery-thumbnail">
-	      <div class="title cat-titles orange" >{{ post.title }}</div>
+	      <div class="title cat-titles blue">{{ post.title }}</div>
 	      <div class="gallery-image"> 
 	      {% assign foundImage = 0 %}
 	      {% assign images = post.content | split:"<img " %}
@@ -75,7 +73,7 @@ layout: default
 	        </div>
 	      </div>
 	    </li>
-      </a>
+	    </a>
 	{% endfor %}
 	</ul>
 
