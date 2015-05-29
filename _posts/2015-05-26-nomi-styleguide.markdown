@@ -2,7 +2,7 @@
 layout: post
 title:  "Nomi Styleguide"
 date:   2015-05-26 17:00:00
-categories: [Styleguide]
+categories: [Branding]
 tags: ['Styleguide', 'Patterns', 'Nomi']
 ---
 

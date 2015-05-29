@@ -2,7 +2,6 @@
 layout: post
 title:  "Error Messages"
 date:   2015-05-26 24:00:00
-categories: ['Illustrations']
 tags: ['Illustrations']
 ---
 <div class="text-block">

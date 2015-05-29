@@ -4,7 +4,7 @@ layout: default
 <header class="wrapper homepage">
 <div class="header lg-dstop">
      <a href="{{ base.url }}/index.html"><h1>marie azcueta</h1></a><br />
-     <span class="small"> interactive designer/developer/illustrator</span>
+     <span class="small"> interactive designer/illustrator</span>
     </div> <!-- end header -->
 
     <div class="header sm-mobile">
@@ -18,54 +18,6 @@ layout: default
 
 <div class="home wrapper">
 <ul class="gallery">
-    <li class="gallery-box">
-      {% for post in site.categories.apps limit:1 %}  
-        <a href="/category/apps/">
-        <div class="gallery-thumbnail">
-        <div class="title homepage-titles orange">{{ post.categories }}</div>
-        <div class="gallery-image homepage-thumb"> 
-        {% assign foundImage = 0 %}
-        {% assign images = post.content | split:"<img " %}
-        {% for image in images %}
-          {% if image contains 'src' %}
-
-              {% if foundImage == 0 %}
-                  {% assign html = image | split:"/>" | first %}
-                  <img {{ html }} />
-                  {% assign foundImage = 1 %}
-              {% endif %}
-          {% endif %}
-        {% endfor %}
-          </div>
-        </div>
-        </a>
-        {% endfor %}
-      </li>
-
-      <li class="gallery-box">
-      {% for post in site.categories.illustrations limit:1 %} 
-        <a href="/category/illustrations"> 
-        <div class="gallery-thumbnail">
-        <div class="title homepage-titles pink" >{{ post.categories }}</div>
-        <div class="gallery-image homepage-thumb"> 
-        {% assign foundImage = 0 %}
-        {% assign images = post.content | split:"<img " %}
-        {% for image in images %}
-          {% if image contains 'src' %}
-
-              {% if foundImage == 0 %}
-                  {% assign html = image | split:"/>" | first %}
-                  <img {{ html }} />
-                  {% assign foundImage = 1 %}
-              {% endif %}
-          {% endif %}
-        {% endfor %}
-          </div>
-        </div>
-        </a>
-        {% endfor %}
-      </li>
-
       <li class="gallery-box">
       {% for post in site.categories.branding limit:1 %} 
         <a href="/category/branding"> 
@@ -90,11 +42,11 @@ layout: default
         {% endfor %}
       </li>
 
-      <li class="gallery-box">
-      {% for post in site.categories.styleguide limit:1 %} 
-        <a href="/category/styleguide"> 
+     <li class="gallery-box">
+      {% for post in site.categories.dashboard limit:1 %} 
+        <a href="/category/dashboard/"> 
         <div class="gallery-thumbnail">
-        <div class="title homepage-titles teal" >{{ post.categories }}</div>
+        <div class="title homepage-titles pink">{{ post.categories }}</div>
         <div class="gallery-image homepage-thumb"> 
         {% assign foundImage = 0 %}
         {% assign images = post.content | split:"<img " %}
@@ -114,11 +66,11 @@ layout: default
         {% endfor %}
       </li>
 
-     <li class="gallery-box">
-      {% for post in site.categories.dashboard limit:1 %} 
-        <a href="/category/dashboard/"> 
+      <li class="gallery-box">
+      {% for post in site.categories.apps limit:1 %}  
+        <a href="/category/apps/">
         <div class="gallery-thumbnail">
-        <div class="title homepage-titles pink">{{ post.categories }}</div>
+        <div class="title homepage-titles orange">{{ post.categories }}</div>
         <div class="gallery-image homepage-thumb"> 
         {% assign foundImage = 0 %}
         {% assign images = post.content | split:"<img " %}

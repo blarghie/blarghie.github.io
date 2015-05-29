@@ -27,7 +27,7 @@ body .wrapper .navigation ul li a:hover {
 
   }
 .header{
-  height:   132px;
+  height:   180px;
   position: relative;
 }
 
@@ -37,8 +37,9 @@ body .wrapper .navigation ul li a:hover {
 
 .fixed {
     position: fixed;
-    top:0; left:0;
-    width: 100%; }
+    top:      0; 
+    left:     0;
+    width:    100%; }
 
 .menu{
   
@@ -91,7 +92,7 @@ h1{
 .homepage .header{
     display:      block;
     text-align:   center;
-    padding-top:  24px;
+    padding-top:  84px;
 }
 
 .homepage .header h1{
@@ -388,6 +389,27 @@ a .homepage-titles:hover, a .cat-titles:hover{
 
 .teal{
   background-color: #2fa7a1;
+}
+.green{
+  #A1EFE3
+}
+
+footer{
+  background-color: #A1EFE3;
+  height:           230px;
+  margin-top:       114px; 
+  text-align:       center;
+  padding-top:      32px;  
+}
+
+footer .orange, footer .green{
+  height:           230px;
+  margin-top:       60px; 
+}
+footer .green img, footer .orange img{
+  height:           80%;
+  padding-top:      32px;
+  vertical-align:   bottom;
 }
 
 a:visited, a:active, a:link{
