@@ -2,7 +2,7 @@
 layout: post
 title:  "Patch Redesign"
 date:   2015-05-26 21:00:00
-categories: ['Dashboard']
+categories: ['Branding']
 tags: ['Redesign', 'Patch']
 ---
 

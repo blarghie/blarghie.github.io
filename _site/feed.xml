@@ -178,8 +178,8 @@ At Patch we kept testing various homepage designs to see what drove the most cli
 
 </description>
         <pubDate>Tue, 26 May 2015 17:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/dashboard/patch-redesign.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/dashboard/patch-redesign.html</guid>
+        <link>http://marieazcueta.com/branding/patch-redesign.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/branding/patch-redesign.html</guid>
       </item>
     
       <item>
@@ -242,37 +242,6 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
       </item>
     
       <item>
-        <title>Patch Mobile First Redesign</title>
-        <description>&lt;div class=&quot;text-block&quot;&gt;
-The store view is a store manager’s dashboard for what’s going on in their store. They can upload their floor plan and see how many people go through  specific sections within the store. &lt;br /&gt;&lt;br /&gt;
-
-&lt;ul class=&quot;sketch&quot;&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-blue-00.jpg&quot; /&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-blue-02.jpg&quot; /&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-01.png&quot; /&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-02.png&quot; /&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-03.png&quot; /&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-04.png&quot; /&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;img src=&quot;/images/Patch/mobile-first-green-05.png&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Patch/news-app-01.png&quot; /&gt;
-	&lt;img src=&quot;/images/Patch/news-app-02.png&quot; /&gt;
-	&lt;img src=&quot;/images/Patch/news-app-03.png&quot; /&gt;
-	&lt;img src=&quot;/images/Patch/news-app-04.png&quot; /&gt;
-	&lt;img src=&quot;/images/Patch/news-app-05.png&quot; /&gt;
-
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 26 May 2015 14:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/apps/patch-apps.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/apps/patch-apps.html</guid>
-      </item>
-    
-      <item>
         <title>Nomi Styleguide</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
 Styleguide here
@@ -293,6 +262,27 @@ Styleguide here
         <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
         <link>http://marieazcueta.com/branding/nomi-styleguide.html</link>
         <guid isPermaLink="true">http://marieazcueta.com/branding/nomi-styleguide.html</guid>
+      </item>
+    
+      <item>
+        <title>Measure Dashboard</title>
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+Nomi’s event watching software allows Event Managers to see how effective their campaigns are by showing what percentage of their customers are coming back after an event and if they become loyal customers after that. It also shows what percentage of visitors in the past 30 day attribution period  have come back &amp;amp; have been “reactivated” by an on-going campaign. In addition to this dashboard I also designed a campaign creation experience that walks the user through the setup process.
+&lt;/div&gt;
+
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-00.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-01.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-02.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-03.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-04.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Measure-05.png&quot; /&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
+        <link>http://marieazcueta.com/dashboard/nomi-event.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/dashboard/nomi-event.html</guid>
       </item>
     
   </channel>

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <header class="wrapper homepage">
 <div class="header lg-dstop">
      <a href="{{ base.url }}/index.html"><h1>marie azcueta</h1></a><br />
@@ -23,7 +24,7 @@ layout: default
         <a href="/category/branding"> 
         <div class="gallery-thumbnail">
         <div class="title homepage-titles blue" >{{ post.categories }}</div>
-        <div class="gallery-image homepage-thumb"> 
+        <div class="gallery-image homepage-thumb orangeBg"> 
         {% assign foundImage = 0 %}
         {% assign images = post.content | split:"<img " %}
         {% for image in images %}
@@ -47,7 +48,7 @@ layout: default
         <a href="/category/dashboard/"> 
         <div class="gallery-thumbnail">
         <div class="title homepage-titles pink">{{ post.categories }}</div>
-        <div class="gallery-image homepage-thumb"> 
+        <div class="gallery-image homepage-thumb purpleBg"> 
         {% assign foundImage = 0 %}
         {% assign images = post.content | split:"<img " %}
         {% for image in images %}
@@ -71,7 +72,7 @@ layout: default
         <a href="/category/apps/">
         <div class="gallery-thumbnail">
         <div class="title homepage-titles orange">{{ post.categories }}</div>
-        <div class="gallery-image homepage-thumb"> 
+        <div class="gallery-image homepage-thumb blueBg"> 
         {% assign foundImage = 0 %}
         {% assign images = post.content | split:"<img " %}
         {% for image in images %}

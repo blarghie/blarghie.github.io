@@ -6,6 +6,8 @@ body {
   font-weight:  300;
   font-size:    12px;
   line-height:  18px; 
+
+  background: url('../images/banderitas-33.png') repeat 0 0;
   }
     
 /*body .wrapper .navigation ul li a {
@@ -18,9 +20,6 @@ body {
   
 */
 
-body .wrapper .navigation ul li a:hover {
-  border-top: 5px solid #FFF; 
-  }
 .wrapper{
   margin:0;
   padding:0;
@@ -29,6 +28,7 @@ body .wrapper .navigation ul li a:hover {
 .header{
   height:   180px;
   position: relative;
+
 }
 
 #branding{
@@ -176,43 +176,6 @@ a.lightRed:hover{
   	float:right;
   }
 
-  .hello {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-flow: row wrap;
-  justify-content: space-around;
-}
-
-.hello .hello-text{
-  padding: 5px;
-  width: 60%;
-  height: 350px;
-  margin: 10px 0;
-  font-size: 1.4em;
-  line-height: 1.6em;
-
-}
-
-.hello .hello-image {
-  padding: 5px;
-  width: 35%;
-  height: 350px;
-  margin-top: 10px;
-  line-height: 150px;
-}
-
-.hello .hello-image img{
-  width:100%;
-  height:auto;
-
-}
-
 .divider{
   width:100%;
   height:2px;  
@@ -232,11 +195,10 @@ ul, li {
   padding: 0; }
 
 .gallery-box{
-  display:        inline-flex;
-  flex-direction: row;
-  margin-right:   4px;
-  flex-wrap:      wrap;
-  justify-content: space-between;
+  display:          inline-flex;
+  flex-flow:        row wrap;
+  margin-right:     4px;
+  justify-content:  space-around;
 }
 
 .gallery-thumbnail{
@@ -276,17 +238,83 @@ ul, li {
 }  
 
 .homepage-thumb{
-   height:      314px; 
+  width:             314px;
+  height:            300px;
+  margin-top:        0;
+  text-align:        center;
+}
+
+.blueBg{  
+  background-color:  #649bcf; /* teal */
+  -webkit-transition: background-color .6s ease;
+  transition:         background-color .6s ease;
 }        
+.blueBg:hover{
+  background-color:  #1f7089;
+}
+.coralBg{  
+  background-color:  #538abd;
+  -webkit-transition: background-color .6s ease;
+  transition:         background-color .6s ease;
+}        
+.coralBg:hover{
+  background-color:  #e77777;
+}  
+.orangeBg{  
+  background-color:  #fbce7f; /* orange */
+  -webkit-transition: background-color .6s ease;
+  transition:         background-color .6s ease;
+}        
+.orangeBg:hover{
+  background-color:  #e0a368; /* dark-orange */
+}  
+.pinkBg{  
+  background-color:   #f76f9b; /* teal */
+  -webkit-transition: background-color .6s ease;
+  transition:         background-color .6s ease;
+}        
+.pinkBg:hover{
+  background-color:  #30afa9;
+}  
+.purpleBg{  
+  background-color:  #bc81ed;
+  -webkit-transition: background-color .6s ease;
+  transition:         background-color .6s ease;
+}        
+.purpleBg:hover{
+  background-color:  #a76fd5;
+}  
+.tealBg{  
+  background-color:  #A1EFE3; /* teal */
+  -webkit-transition: background-color .6s ease;
+  transition:         background-color .6s ease;
+}        
+.tealBg:hover{
+  background-color:  #30afa9;
+}
+
+
+.homepage-thumb img{
+  width:        85%;
+  height:       auto;
+  bottom:       0;
+  padding-top:  10%
+}
+
+.homepage-thumb img:hover{
+
+}
+
 
 .homepage-titles{
-  position: absolute;
-  left: 0;
-  top: 240px;
-  
-  opacity: .86;
-  padding: 13px 24px;
+  position:      absolute;
+  left:          0;
+  top:           220px;
+         
+  opacity:       .86;
+  padding:       13px 24px;
   color: white;
+  transition:    number 0.8s ease;
 }
 
 .cat-titles{
@@ -297,6 +325,7 @@ ul, li {
   opacity: .86;
   padding: 13px 24px;
   color: white;
+  transition:    number 0.8s ease;
 }
 
 a .homepage-titles:active, a .homepage-titles:link, a .homepage-titles:visited,
@@ -384,14 +413,16 @@ a .homepage-titles:hover, a .cat-titles:hover{
 
 .pink{
   background-color: #f76f9b;
-
 }
 
 .teal{
   background-color: #2fa7a1;
 }
 .green{
-  #A1EFE3
+  background-color: #A1EFE3;
+}
+.coral{
+  background-color: #ff8989;
 }
 
 footer{
