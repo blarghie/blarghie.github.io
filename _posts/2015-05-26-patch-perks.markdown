@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Patch Perks App"
-date:   2015-05-26 20:00:00
-categories: ['Apps']
+date:   2015-05-26 10:00:00
+categories: ['Apps', 'Dashboards']
 tags: ['Patch', 'Apps', 'Redesign']
 ---
 
@@ -13,12 +13,13 @@ We designed canned reports specifically to the users who want to easily digest t
 
 </div>
 <div class="images">
-	<img src="{{ base.url }}/images/Patch/Perks-06.png" />
-	<img src="{{ base.url }}/images/Patch/Perks-01.png" />
 	<img src="{{ base.url }}/images/Patch/Perks-02.png" />
+
+	<img src="{{ base.url }}/images/Patch/Perks-01.png" />
 	<img src="{{ base.url }}/images/Patch/Perks-03.png" />
 	<img src="{{ base.url }}/images/Patch/Perks-04.png" />
 	<img src="{{ base.url }}/images/Patch/Perks-05.png" />
+	<img src="{{ base.url }}/images/Patch/Perks-06.png" />
 </div>
 
 [jekyll-gh]: https://github.com/jekyll/jekyll

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body>
+
+    <header class="wrapper homepage">
+      <div class="header lg-dstop">
+        <a href="{{ base.url }}/index.html"><h1>marie  azcueta</h1></a><br />
+       <span class="small"> interactive designer/ illustrator</span>
+      </div> <!-- end header -->
+      
+      <div class="header sm-mobile">
+        <h1>
+        <a href="index.html" class="logo">marie azcueta</a>  
+        <a href="mailto:marieazc@gmail.com" class="email  pull-right">email</a>
+       </h1>
+      </div> <!-- end header -->
+    </header>
+    
+    <div class="page-content">
+      <div class="wrapper">
+      {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    </body>
+</html>

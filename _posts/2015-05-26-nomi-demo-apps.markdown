@@ -10,7 +10,7 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 </div>
 
 <div class="images">
-	<img src="{{ base.url }}/images/Nomi/Nike-01.png" />
+	<img src="{{ base.url }}/images/Nomi/Nike-00.jpg" />
 </div>
 
 <div class="text-block small">
@@ -29,6 +29,7 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 </div>
 
 <div class="images">
+	<img src="{{ base.url }}/images/Nomi/Nike-01.png" />
 	<img src="{{ base.url }}/images/Nomi/Nike-02.png" />
 	<img src="{{ base.url }}/images/Nomi/Nike-03.png" />
 </div>

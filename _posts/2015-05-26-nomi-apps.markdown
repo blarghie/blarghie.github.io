@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beacon Configurator"
+title:  "Nomi Beacon Demo iOS App"
 date:   2015-05-26 23:00:00
 category: ['Apps']
 tags: ['Nomi', 'Apps']
@@ -9,12 +9,14 @@ tags: ['Nomi', 'Apps']
 As Nomi developed beacon hardware, we then had to equip users with a fleet management system to configure their beacons. We sent out these Nomi beacons to agencies to test &amp; play with.  I designed an app that highlighted what &amp; how the Nomi beacons worked. It including an SDK &amp; a self-serve configurator that the user can immediately play with as they received their beacons.
 </div>
 <div class="images">
-<img src="{{ base.url }}/images/Nomi/Beacon-config-01.png" />
+	<img src="{{ base.url }}/images/Nomi/Beacon-config-00.png" />
+	<img src="{{ base.url }}/images/Nomi/Beacon-config-01.png" />
 </div>
 
 <div class="text-block small">
 I wanted the app to be playful and not intimidating for first time users. Our team played around with various ideas on how to make the first interaction between the beacon and their phone delightful. We tested out various animations and interactions and ultimately ended up with this &mdash; image on the right.<br /><br />
 
+Some explorations: <br /><br />
 <ul class="sketch">
 
 	<li>
@@ -23,8 +25,8 @@ I wanted the app to be playful and not intimidating for first time users. Our te
 	<li>	
 		<img src="{{ base.url }}/images/Nomi/Tap-to-register-01.gif" />
 	</li>
-</ul>
 
+</ul>
 As the app detected the beacon nearby an animation would fire up wherein it indicates to the user to hold their phone to the beacon until it has paired. After this, the user will be prompted to set up their preferences.<br /><br />
 <img class="sketchHere" src="{{ base.url }}/images/Nomi/Tap-demo.jpg" />
 

@@ -10,7 +10,7 @@ I designed Vollio’s brand and logo. The brand speaks to the empowering of a ge
 </div>
 
 <div class="images">
-
+	<img src="{{ base.url }}/images/Vollio/vollio-03.png" />
 	<img src="{{ base.url }}/images/Vollio/vollio-00.png" />
 	<img src="{{ base.url }}/images/Vollio/vollio-01.png" />
 	<img src="{{ base.url }}/images/Vollio/vollio-02.png" />

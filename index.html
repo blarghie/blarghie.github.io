@@ -1,27 +1,11 @@
 ---
-layout: default
+layout: homepage
 ---
-
-<header class="wrapper homepage">
-<div class="header lg-dstop">
-     <a href="{{ base.url }}/index.html"><h1>marie azcueta</h1></a><br />
-     <span class="small"> interactive designer/illustrator</span>
-    </div> <!-- end header -->
-
-    <div class="header sm-mobile">
-      <h1>
-      <a href="index.html" class="logo">marie azcueta</a> 
-      <a href="mailto:marieazc@gmail.com" mixpanel.track("Contact Marie"); class="email pull-right">email</a>
-     </h1>
-    </div> <!-- end header -->
-</header>
-
-
-<div class="home wrapper">
+<div>
 <ul class="gallery">
       <li class="gallery-box">
       {% for post in site.categories.branding limit:1 %} 
-        <a href="/category/branding"> 
+        <a href="{{ base.url }}/category/branding"> 
         <div class="gallery-thumbnail">
         <div class="title homepage-titles blue" >{{ post.categories }}</div>
         <div class="gallery-image homepage-thumb orangeBg"> 
@@ -44,8 +28,8 @@ layout: default
       </li>
 
      <li class="gallery-box">
-      {% for post in site.categories.dashboard limit:1 %} 
-        <a href="/category/dashboard/"> 
+      {% for post in site.categories.dashboards limit:1 %} 
+        <a href="{{ base.url }}/category/dashboards/"> 
         <div class="gallery-thumbnail">
         <div class="title homepage-titles pink">{{ post.categories }}</div>
         <div class="gallery-image homepage-thumb purpleBg"> 
@@ -69,9 +53,9 @@ layout: default
 
       <li class="gallery-box">
       {% for post in site.categories.apps limit:1 %}  
-        <a href="/category/apps/">
+        <a href="{{ base.url }}/category/apps/">
         <div class="gallery-thumbnail">
-        <div class="title homepage-titles orange">{{ post.categories }}</div>
+        <div class="title homepage-titles teal">{{ post.categories }}</div>
         <div class="gallery-image homepage-thumb blueBg"> 
         {% assign foundImage = 0 %}
         {% assign images = post.content | split:"<img " %}

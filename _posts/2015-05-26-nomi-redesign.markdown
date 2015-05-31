@@ -2,7 +2,7 @@
 layout: post
 title:  "Nomi Redesign"
 date:   2015-05-26 24:00:00
-categories: ['Dashboard']
+categories: ['Dashboards']
 tags: ['Nomi', 'Dashboard', 'Redesign']
 ---
 <div class="text-block">
@@ -12,7 +12,7 @@ We designed canned reports specifically to the users who want to easily digest t
 </div>
 
 <div class="images">
-	<img src="{{ base.url }}/images/Nomi/nomi-redesign-01.png" />
+	<img src="{{ base.url }}/images/Nomi/nomi-redesign-00.png" />
 </div>
 <div class="text-block small">
 <ul class="sketch">

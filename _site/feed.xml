@@ -13,7 +13,7 @@ I designed Vollio’s brand and logo. The brand speaks to the empowering of a ge
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
-
+	&lt;img src=&quot;/images/Vollio/vollio-03.png&quot; /&gt;
 	&lt;img src=&quot;/images/Vollio/vollio-00.png&quot; /&gt;
 	&lt;img src=&quot;/images/Vollio/vollio-01.png&quot; /&gt;
 	&lt;img src=&quot;/images/Vollio/vollio-02.png&quot; /&gt;
@@ -34,7 +34,7 @@ We designed canned reports specifically to the users who want to easily digest t
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/nomi-redesign-01.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/nomi-redesign-00.png&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;text-block small&quot;&gt;
 &lt;ul class=&quot;sketch&quot;&gt;
@@ -64,8 +64,8 @@ Additionally, I built an HTML prototype that also served as a demo for the NRF t
 
 </description>
         <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/dashboard/nomi-redesign.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/dashboard/nomi-redesign.html</guid>
+        <link>http://marieazcueta.com/dashboards/nomi-redesign.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/dashboards/nomi-redesign.html</guid>
       </item>
     
       <item>
@@ -90,8 +90,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
 
 </description>
         <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/dashboard/nomi-listen.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/dashboard/nomi-listen.html</guid>
+        <link>http://marieazcueta.com/dashboards/nomi-listen.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/dashboards/nomi-listen.html</guid>
       </item>
     
       <item>
@@ -114,17 +114,37 @@ I designed Vollio’s brand and logo. The brand speaks to the empowering of a ge
       </item>
     
       <item>
-        <title>Beacon Configurator</title>
+        <title>Nomi Lane Management</title>
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+Front-end managers at grocery and retail stores needed a dashboard that they can use both while walking around the store and an on-screen version that shows them how many checkout lanes they need to open based off of the line lengths. With another designer we developed &amp;amp; refined an actionable dashboard system to display this data. 
+&lt;/div&gt;
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Nomi/lane-mgmt-01.jpg&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/lane-mgmt-02.jpg&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/lane-mgmt-03.jpg&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/lane-mgmt-04.png&quot; /&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 26 May 2015 19:00:00 -0400</pubDate>
+        <link>http://marieazcueta.com/apps/nomi-lanes.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/apps/nomi-lanes.html</guid>
+      </item>
+    
+      <item>
+        <title>Nomi Beacon Demo iOS App</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
 As Nomi developed beacon hardware, we then had to equip users with a fleet management system to configure their beacons. We sent out these Nomi beacons to agencies to test &amp;amp; play with.  I designed an app that highlighted what &amp;amp; how the Nomi beacons worked. It including an SDK &amp;amp; a self-serve configurator that the user can immediately play with as they received their beacons.
 &lt;/div&gt;
 &lt;div class=&quot;images&quot;&gt;
-&lt;img src=&quot;/images/Nomi/Beacon-config-01.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Beacon-config-00.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Beacon-config-01.png&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;text-block small&quot;&gt;
 I wanted the app to be playful and not intimidating for first time users. Our team played around with various ideas on how to make the first interaction between the beacon and their phone delightful. We tested out various animations and interactions and ultimately ended up with this &amp;mdash; image on the right.&lt;br /&gt;&lt;br /&gt;
 
+Some explorations: &lt;br /&gt;&lt;br /&gt;
 &lt;ul class=&quot;sketch&quot;&gt;
 
 	&lt;li&gt;
@@ -133,8 +153,8 @@ I wanted the app to be playful and not intimidating for first time users. Our te
 	&lt;li&gt;	
 		&lt;img src=&quot;/images/Nomi/Tap-to-register-01.gif&quot; /&gt;
 	&lt;/li&gt;
-&lt;/ul&gt;
 
+&lt;/ul&gt;
 As the app detected the beacon nearby an animation would fire up wherein it indicates to the user to hold their phone to the beacon until it has paired. After this, the user will be prompted to set up their preferences.&lt;br /&gt;&lt;br /&gt;
 &lt;img class=&quot;sketchHere&quot; src=&quot;/images/Nomi/Tap-demo.jpg&quot; /&gt;
 
@@ -183,36 +203,13 @@ At Patch we kept testing various homepage designs to see what drove the most cli
       </item>
     
       <item>
-        <title>Patch Perks App</title>
-        <description>&lt;div class=&quot;text-block&quot;&gt;
-Is an app built on allowing users to subscribe to small businesses&#39; newsletters in turn receiving a reward for making purchase&lt;br /&gt;&lt;br /&gt;
-
-We designed canned reports specifically to the users who want to easily digest the data we presented. We gave them what we thought they needed: charts of trending days and hours of highest and average traffic over time and the hours in the day where foot traffic was heavier. 
-
-&lt;/div&gt;
-&lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Patch/Perks-06.png&quot; /&gt;
-	&lt;img src=&quot;/images/Patch/Perks-01.png&quot; /&gt;
-	&lt;img src=&quot;/images/Patch/Perks-02.png&quot; /&gt;
-	&lt;img src=&quot;/images/Patch/Perks-03.png&quot; /&gt;
-	&lt;img src=&quot;/images/Patch/Perks-04.png&quot; /&gt;
-	&lt;img src=&quot;/images/Patch/Perks-05.png&quot; /&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 26 May 2015 16:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/apps/patch-perks.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/apps/patch-perks.html</guid>
-      </item>
-    
-      <item>
         <title>Nomi Demo Apps</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
 Our team collaborated to create beacon use cases to demo in app experiences. In it users would be able to interact with beacon merchandise. If a user has the store app or a partner&#39;s app.Interacting with the merchandise with a tap of a user’s phone would pull up the information about that product &amp;amp; a discount on that product. 
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/Nike-01.png&quot; /&gt;
+	&lt;img src=&quot;/images/Nomi/Nike-00.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;text-block small&quot;&gt;
@@ -231,6 +228,7 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Nomi/Nike-01.png&quot; /&gt;
 	&lt;img src=&quot;/images/Nomi/Nike-02.png&quot; /&gt;
 	&lt;img src=&quot;/images/Nomi/Nike-03.png&quot; /&gt;
 &lt;/div&gt;
@@ -281,8 +279,8 @@ Nomi’s event watching software allows Event Managers to see how effective thei
 
 </description>
         <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/dashboard/nomi-event.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/dashboard/nomi-event.html</guid>
+        <link>http://marieazcueta.com/dashboards/nomi-event.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/dashboards/nomi-event.html</guid>
       </item>
     
   </channel>
