@@ -6,6 +6,7 @@ category: ['Mobile', 'Branding']
 tags: ['Brief', 'Apps', 'Mobile']
 ---
 <div class="text-block">
+Brief is a tool that takes a user's (business) relationships and presents them in a way that can be managed. Lists would be organized to remind the user when to get a hold of their contact or the context of a conversation. I designed various interactions to differentiate those lists and also ways that would easily remind the user how they're doing in the context of their relationships. 
 </div>
 
 <div class="images">

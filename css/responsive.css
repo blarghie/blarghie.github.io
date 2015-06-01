@@ -97,13 +97,22 @@
   }
   .sm-mobile{
     display: inline-block !important;
+    text-align:       center;
+
   }
-  h1{
+  .homepage .header, .in-pages .header{
+    padding-top: 8px;
+    text-align:       center;
+  }
+  .header, .in-pages .header{
+    height:       70px;
+  }
+
+  .header h1{
 	font-size:        24px;
   font-weight:      300 !important;
 /* 	font-size:1.2em; */
-	text-align:       left;
-	display: inline-block;
+		display: inline-block;
 	margin-bottom:    32px;
 	background:       url('../images/marieazc-02.png') no-repeat;
 	width:             90%;
@@ -132,6 +141,10 @@
   	margin-bottom: 8px;
   	margin-top: 0;
   }
+
+  .not-menus{
+  display: none !important;
+}
   .hello .hello-text{
   padding: 5px;
   width: 100%;
@@ -148,6 +161,15 @@
   height: 350px;
   margin-top: 10px;
   line-height: 150px;
+}
+
+
+
+.post-content div{
+  width:  100%;
+}
+.post-content .text-block, .post-content .images, .post-content .sketches{
+  width:       100%;
 }
 
   .gallery{

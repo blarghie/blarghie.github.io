@@ -160,7 +160,10 @@ After the user registers their beacon they&#39;ll have the following options to 
       <item>
         <title>Patch Redesign</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
-At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. Patch is a local news site, it was envioned to be an online bulletin board for communities. &lt;br /&gt;&lt;br /&gt;
+Patch is a local news site, it was envioned to be an online bulletin board for communities. At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. &lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;text-block small&quot;&gt;
+We conducted various ethnographic research and user testing with focus groups and individuals to see if our product would be something our target users would use. We A/B tested UI and interactions to figure out which of our solutions was the easiest for users to interact with and to contribute content. Then we built it. 
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
@@ -172,9 +175,10 @@ We kept desiging in order to keep users engaged and encouraged posting and inter
 
 Some explorations: &lt;br /&gt;&lt;br /&gt;
 	&lt;ul class=&quot;sketch&quot;&gt;
-		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-04.jpg&quot; /&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-02.png&quot; /&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-03.jpg&quot; /&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Patch/styleguide.png&quot; alt=&quot;Patch styleguide&quot; /&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-04.jpg&quot; alt=&quot;2011 Design&quot; /&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-02.png&quot; alt=&quot;Redesign Exploration&quot; /&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-03.jpg&quot; alt=&quot;Redesign Exploration&quot; /&gt;&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/div&gt;
 

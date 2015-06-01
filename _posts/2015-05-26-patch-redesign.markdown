@@ -7,7 +7,10 @@ tags: ['Redesign', 'Patch']
 ---
 
 <div class="text-block">
-At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. Patch is a local news site, it was envioned to be an online bulletin board for communities. <br /><br />
+Patch is a local news site, it was envioned to be an online bulletin board for communities. At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. <br /><br />
+</div>
+<div class="text-block small">
+We conducted various ethnographic research and user testing with focus groups and individuals to see if our product would be something our target users would use. We A/B tested UI and interactions to figure out which of our solutions was the easiest for users to interact with and to contribute content. Then we built it. 
 </div>
 
 <div class="images">
@@ -19,9 +22,10 @@ We kept desiging in order to keep users engaged and encouraged posting and inter
 
 Some explorations: <br /><br />
 	<ul class="sketch">
-		<li><img src="{{ base.url }}/images/Patch/homepage-04.jpg" /></li>
-		<li><img src="{{ base.url }}/images/Patch/homepage-02.png" /></li>
-		<li><img src="{{ base.url }}/images/Patch/homepage-03.jpg" /></li>
+		<li><img src="{{ base.url }}/images/Patch/styleguide.png" alt="Patch styleguide" /></li>
+		<li><img src="{{ base.url }}/images/Patch/homepage-04.jpg" alt="2011 Design" /></li>
+		<li><img src="{{ base.url }}/images/Patch/homepage-02.png" alt="Redesign Exploration" /></li>
+		<li><img src="{{ base.url }}/images/Patch/homepage-03.jpg" alt="Redesign Exploration" /></li>
 	</ul>
 </div>
 
