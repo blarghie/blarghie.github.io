@@ -2,8 +2,8 @@
 layout: post
 title:  "Beacon Fleet Manager"
 date:   2015-05-26 09:00:00
-category: ['Apps']
-tags: ['Nomi', 'Apps']
+category: ['Mobile']
+tags: ['Nomi', 'Apps', 'Mobile']
 ---
 <div class="text-block">
 As Nomi sent sensors to stores, we had to equip installers with a fleet management system to install and activate beacons on location. Installers were previously relying on clunky third-party software and had to be walked through the process by our operations team. Equipping them with an app allowed them to see where the devices were set to be placed along with other information to activate them, including tunnelling into the cameras to verify a live feed and documentation regarding the install.

@@ -2,8 +2,8 @@
 layout: post
 title:  "Nomi Beacon Demo iOS App"
 date:   2015-05-26 23:00:00
-category: ['Apps']
-tags: ['Nomi', 'Apps']
+category: ['Mobile']
+tags: ['Nomi', 'Mobile', 'Apps']
 ---
 <div class="text-block">
 As Nomi developed beacon hardware, we then had to equip users with a fleet management system to configure their beacons. We sent out these Nomi beacons to agencies to test &amp; play with.  I designed an app that highlighted what &amp; how the Nomi beacons worked. It including an SDK &amp; a self-serve configurator that the user can immediately play with as they received their beacons.

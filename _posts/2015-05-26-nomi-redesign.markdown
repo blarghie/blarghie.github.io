@@ -14,7 +14,10 @@ We designed canned reports specifically to the users who want to easily digest t
 <div class="images">
 	<img src="{{ base.url }}/images/Nomi/nomi-redesign-00.png" />
 </div>
+
 <div class="text-block small">
+	More explorations: <br /><br />
+
 <ul class="sketch">
 	<li><img src="{{ base.url }}/images/Nomi/redesign-sketch-01.png" />
 	</li>

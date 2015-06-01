@@ -7,7 +7,7 @@ tags: ['Redesign', 'Patch']
 ---
 
 <div class="text-block">
-At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage.<br /><br />
+At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. Patch is a local news site, it was envioned to be an online bulletin board for communities. <br /><br />
 </div>
 
 <div class="images">
@@ -15,7 +15,9 @@ At Patch we kept testing various homepage designs to see what drove the most cli
 </div>
 
 <div class="text-block small">
-At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. <br /><br />
+We kept desiging in order to keep users engaged and encouraged posting and interacting with articles and with the other people in communites.<br /><br />
+
+Some explorations: <br /><br />
 	<ul class="sketch">
 		<li><img src="{{ base.url }}/images/Patch/homepage-04.jpg" /></li>
 		<li><img src="{{ base.url }}/images/Patch/homepage-02.png" /></li>

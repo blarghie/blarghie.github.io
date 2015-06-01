@@ -7,25 +7,6 @@
     <atom:link href="http://marieazcueta.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Vollio Design</title>
-        <description>&lt;div class=&quot;text-block&quot;&gt;
-I designed Vollio’s brand and logo. The brand speaks to the empowering of a generation to share their time with groups to volunteer and help where they are needed. The product was established because of how the founders felt about a lack of organization &amp;amp; visibility of current organizations.&lt;br /&gt;&lt;br /&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Vollio/vollio-03.png&quot; /&gt;
-	&lt;img src=&quot;/images/Vollio/vollio-00.png&quot; /&gt;
-	&lt;img src=&quot;/images/Vollio/vollio-01.png&quot; /&gt;
-	&lt;img src=&quot;/images/Vollio/vollio-02.png&quot; /&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/branding/vollio.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/branding/vollio.html</guid>
-      </item>
-    
-      <item>
         <title>Nomi Redesign</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
 The Listen Grid was my initial attempt to organize the data we collect in a manner that our users would be able to view &amp;amp; manipulate it. After a year, we learned a lot about our users and how they use our product, mostly that they needed their associates to be able to analyze the data we collect without spending too much time on it. We then came up with  reports that made the data we have more digestible. &lt;br /&gt;&lt;br /&gt;
@@ -36,7 +17,10 @@ We designed canned reports specifically to the users who want to easily digest t
 &lt;div class=&quot;images&quot;&gt;
 	&lt;img src=&quot;/images/Nomi/nomi-redesign-00.png&quot; /&gt;
 &lt;/div&gt;
+
 &lt;div class=&quot;text-block small&quot;&gt;
+	More explorations: &lt;br /&gt;&lt;br /&gt;
+
 &lt;ul class=&quot;sketch&quot;&gt;
 	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-01.png&quot; /&gt;
 	&lt;/li&gt;
@@ -127,8 +111,8 @@ Front-end managers at grocery and retail stores needed a dashboard that they can
 
 </description>
         <pubDate>Tue, 26 May 2015 19:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/apps/nomi-lanes.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/apps/nomi-lanes.html</guid>
+        <link>http://marieazcueta.com/dashboards/nomi-lanes.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/dashboards/nomi-lanes.html</guid>
       </item>
     
       <item>
@@ -169,14 +153,14 @@ After the user registers their beacon they&#39;ll have the following options to 
 
 </description>
         <pubDate>Tue, 26 May 2015 19:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/apps/nomi-apps.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/apps/nomi-apps.html</guid>
+        <link>http://marieazcueta.com/mobile/nomi-apps.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/mobile/nomi-apps.html</guid>
       </item>
     
       <item>
         <title>Patch Redesign</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
-At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage.&lt;br /&gt;&lt;br /&gt;
+At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. Patch is a local news site, it was envioned to be an online bulletin board for communities. &lt;br /&gt;&lt;br /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
@@ -184,7 +168,9 @@ At Patch we kept testing various homepage designs to see what drove the most cli
 &lt;/div&gt;
 
 &lt;div class=&quot;text-block small&quot;&gt;
-At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. &lt;br /&gt;&lt;br /&gt;
+We kept desiging in order to keep users engaged and encouraged posting and interacting with articles and with the other people in communites.&lt;br /&gt;&lt;br /&gt;
+
+Some explorations: &lt;br /&gt;&lt;br /&gt;
 	&lt;ul class=&quot;sketch&quot;&gt;
 		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-04.jpg&quot; /&gt;&lt;/li&gt;
 		&lt;li&gt;&lt;img src=&quot;/images/Patch/homepage-02.png&quot; /&gt;&lt;/li&gt;
@@ -213,7 +199,7 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 &lt;/div&gt;
 
 &lt;div class=&quot;text-block small&quot;&gt;
-	&lt;br /&gt;&lt;br /&gt;In the QSR case we developed a loyalty program wherein as the user approached the register to pay for her food; she wood tap on a device that would &quot;punch&quot; her store card, leading up to promotions.
+	&lt;br /&gt;&lt;br /&gt;In the QSR case we developed a loyalty program wherein as the user approached the register to pay for her food; she would tap on a device that would &quot;punch&quot; her store card, leading up to promotions.
 	&lt;ul class=&quot;sketch&quot;&gt;
 
 		&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-01.png&quot; /&gt;
@@ -235,14 +221,14 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 
 </description>
         <pubDate>Tue, 26 May 2015 16:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/apps/nomi-demo-apps.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/apps/nomi-demo-apps.html</guid>
+        <link>http://marieazcueta.com/mobile/nomi-demo-apps.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/mobile/nomi-demo-apps.html</guid>
       </item>
     
       <item>
         <title>Nomi Styleguide</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
-Styleguide here
+Redesigning meant creating a system that would translate to various usecases in the product. I created one to function as this as well as to keep our team in check and honest about what we release. So that we wouldnt be creating and recreating patterns as we went along. 
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
@@ -281,6 +267,22 @@ Nomi’s event watching software allows Event Managers to see how effective thei
         <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
         <link>http://marieazcueta.com/dashboards/nomi-event.html</link>
         <guid isPermaLink="true">http://marieazcueta.com/dashboards/nomi-event.html</guid>
+      </item>
+    
+      <item>
+        <title>Patch Styleguide</title>
+        <description>&lt;div class=&quot;text-block&quot;&gt;
+The store view is a store manager’s dashboard for what’s going on in their store. They can upload their floor plan and see how many people go through  specific sections within the store. &lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;images&quot;&gt;
+	&lt;img src=&quot;/images/Patch/styleguide.png&quot; /&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 26 May 2015 12:00:00 -0400</pubDate>
+        <link>http://marieazcueta.com/patch-styleguide.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/patch-styleguide.html</guid>
       </item>
     
   </channel>

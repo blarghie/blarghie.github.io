@@ -7,7 +7,7 @@ tags: ['Styleguide', 'Patterns', 'Nomi']
 ---
 
 <div class="text-block">
-Styleguide here
+Redesigning meant creating a system that would translate to various usecases in the product. I created one to function as this as well as to keep our team in check and honest about what we release. So that we wouldnt be creating and recreating patterns as we went along. 
 </div>
 
 <div class="images">

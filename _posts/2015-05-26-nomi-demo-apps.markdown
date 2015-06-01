@@ -2,8 +2,8 @@
 layout: post
 title:  "Nomi Demo Apps"
 date:   2015-05-26 20:00:00
-categories: ['Apps']
-tags: ['Nomi', 'Apps']
+categories: ['Mobile']
+tags: ['Nomi', 'Apps', 'Mobile']
 ---
 <div class="text-block">
 Our team collaborated to create beacon use cases to demo in app experiences. In it users would be able to interact with beacon merchandise. If a user has the store app or a partner's app.Interacting with the merchandise with a tap of a user’s phone would pull up the information about that product &amp; a discount on that product. 
@@ -14,7 +14,7 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 </div>
 
 <div class="text-block small">
-	<br /><br />In the QSR case we developed a loyalty program wherein as the user approached the register to pay for her food; she wood tap on a device that would "punch" her store card, leading up to promotions.
+	<br /><br />In the QSR case we developed a loyalty program wherein as the user approached the register to pay for her food; she would tap on a device that would "punch" her store card, leading up to promotions.
 	<ul class="sketch">
 
 		<li><img src="{{ base.url }}/images/Nomi/Beacon-spec-01.png" />
