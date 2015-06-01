@@ -314,6 +314,14 @@ ul, li {
 .tealBg:hover{
   background-color:  #30afa9;
 }
+a.footerlinks:active, a.footerlinks:visited{
+  color:  #a76fd5;
+  padding: 4px 6px;
+}
+a.footerlinks:hover{
+  background-color:  #a76fd5;
+  color: white;
+}
 
 
 .homepage-thumb img{
