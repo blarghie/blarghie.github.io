@@ -10,18 +10,20 @@
         <title>Nomi Redesign</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
 The Listen Grid was my initial attempt to organize the data we collect in a manner that our users would be able to view &amp;amp; manipulate it. After a year, we learned a lot about our users and how they use our product, mostly that they needed their associates to be able to analyze the data we collect without spending too much time on it. We then came up with  reports that made the data we have more digestible. &lt;br /&gt;&lt;br /&gt;
-
-We designed canned reports specifically to the users who want to easily digest the data we presented. We gave them what we thought they needed: charts of trending days and hours of highest and average traffic over time and the hours in the day where foot traffic was heavier. &lt;br /&gt;&lt;br /&gt;
 &lt;/div&gt;
-
 &lt;div class=&quot;images&quot;&gt;
 	&lt;img src=&quot;/images/Nomi/nomi-redesign-00.png&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;text-block small&quot;&gt;
+We designed canned reports specifically for the users who want to easily digest the data we present. We give them what we think they need: charts of trending days and hours of highest and average traffic over time and the hours in the day where foot traffic was heavier. &lt;br /&gt;&lt;br /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;text-block small&quot;&gt;
 	More explorations: &lt;br /&gt;&lt;br /&gt;
 
 &lt;ul class=&quot;sketch&quot;&gt;
+	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-dash-04.png&quot; /&gt;
+	&lt;/li&gt;
 	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-01.png&quot; /&gt;
 	&lt;/li&gt;
 	&lt;li&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-02.png&quot; /&gt;
