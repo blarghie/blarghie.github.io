@@ -43,7 +43,7 @@ permalink: /about/
         </a>
        </li>  
 
-       <li class="pull-right not-menus">
+       <li class="pull-right not-menus teal">
         <a href="{{ base.url }}/about.html"> 
           <div>More about me</div>
         </a>
@@ -51,7 +51,7 @@ permalink: /about/
     </ul>
  </div> <!-- end menu -->
 </header>
-<div class="text-block small">
+<article class="text-block small">
     <p>Hi! Thank you for checking out my work. </p>
 <p>
 I'm a traditionally trained Graphic Designer. I went to college in Philadelphia, PA after falling in love with graphic design in a school in the Philippines where I grew up. I watched a lot of anime and read a lot of manga which made me want to try to make a career out of being able to draw. In Art School (University of the Arts) besides drawing letters, painting on sketchbooks and newsprint I focused on interactive media, mostly digital, mostly in Actionscript. I learned to code from creating digital solutions to design problems.
@@ -73,4 +73,4 @@ I have worked with amazing teams of engineers, product managers and designers. D
 <a href="{{ base.url}}/images/azcueta-06-2015.pdf" class="lightRed">Here is my resumé</a>. If you like my work, let's talk. If you'd like to talk to people I've worked for for proof that I do great work please get a hold of me via the info I've provided above.
 </p>
 
-</div>
+</article>
