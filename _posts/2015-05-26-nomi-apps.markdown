@@ -9,8 +9,8 @@ tags: ['Nomi', 'Mobile', 'Apps']
 As Nomi developed beacon hardware, we then had to equip users with a fleet management system to configure their beacons. We sent out these Nomi beacons to agencies to test &amp; play with.  I designed an app that highlighted what &amp; how the Nomi beacons worked. It including an SDK &amp; a self-serve configurator that the user can immediately play with as they received their beacons.
 </div>
 <div class="images">
-	<img src="{{ base.url }}/images/Nomi/Beacon-config-00.png" />
-	<img src="{{ base.url }}/images/Nomi/Beacon-config-01.png" />
+	<a href="{{ base.url }}/images/Nomi/Beacon-config-00.png" data-lightbox="Nomi Beacon" title="The screen indicating a Beacon is nearby and can be paired with"><img src="{{ base.url }}/images/Nomi/Beacon-config-00.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Beacon-config-01.png" data-lightbox="Nomi Beacon" title="Log in screen"><img src="{{ base.url }}/images/Nomi/Beacon-config-01.png" /></a>
 </div>
 
 <div class="text-block small">
@@ -20,23 +20,23 @@ Some explorations: <br /><br />
 <ul class="sketch">
 
 	<li>
-		<img src="{{ base.url }}/images/Nomi/Tap-to-register.gif" />
+		<a href="{{ base.url }}/images/Nomi/Tap-to-register.gif" data-lightbox="Sketches" title=""><img src="{{ base.url }}/images/Nomi/Tap-to-register.gif" /></a>
 	</li>	
 	<li>	
-		<img src="{{ base.url }}/images/Nomi/Tap-to-register-01.gif" />
+		<a href="{{ base.url }}/images/Nomi/Tap-to-register-01.gif" data-lightbox="Sketches" title=""><img src="{{ base.url }}/images/Nomi/Tap-to-register-01.gif" /></a>
 	</li>
 
 </ul>
 As the app detected the beacon nearby an animation would fire up wherein it indicates to the user to hold their phone to the beacon until it has paired. After this, the user will be prompted to set up their preferences.<br /><br />
-<img class="sketchHere" src="{{ base.url }}/images/Nomi/Tap-demo.jpg" />
+	<a href="{{ base.url }}/images/Nomi/Tap-demo.jpg" data-lightbox="Sketches" title=""><img class="sketchHere" src="{{ base.url }}/images/Nomi/Tap-demo.jpg" /></a>
 
 After the user registers their beacon they'll have the following options to expolre: launch demo, configure beacons or to get more beacons. <br /><br />
 </div>
 <div class="images">
-<img src="{{ base.url }}/images/Nomi/Beacon-config-02.png" />
-<img src="{{ base.url }}/images/Nomi/Beacon-config-03.png" />
-<img src="{{ base.url }}/images/Nomi/Beacon-config-04.png" />
-<img src="{{ base.url }}/images/Nomi/Beacon-config-05.png" />
+	<a href="{{ base.url }}/images/Nomi/Beacon-config-02.png" data-lightbox="Nomi Beacon" title=""><img src="{{ base.url }}/images/Nomi/Beacon-config-02.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Beacon-config-03.png" data-lightbox="Nomi Beacon" title=""><img src="{{ base.url }}/images/Nomi/Beacon-config-03.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Beacon-config-04.png" data-lightbox="Nomi Beacon" title=""><img src="{{ base.url }}/images/Nomi/Beacon-config-04.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Beacon-config-05.png" data-lightbox="Nomi Beacon" title=""><img src="{{ base.url }}/images/Nomi/Beacon-config-05.png" /></a>
 </div>
 
 [jekyll-gh]: https://github.com/jekyll/jekyll

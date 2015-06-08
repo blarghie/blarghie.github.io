@@ -17,21 +17,30 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 	<br /><br />In the QSR case we developed a loyalty program wherein as the user approached the register to pay for her food; she would tap on a device that would "punch" her store card, leading up to promotions.
 	<ul class="sketch">
 
-		<li><img src="{{ base.url }}/images/Nomi/Beacon-spec-01.png" />
+		<li><a href="{{ base.url }}/images/Nomi/Beacon-spec-01.png" data-lightbox="Sketch" title=""><img src="{{ base.url }}/images/Nomi/Beacon-spec-01.png" /></a>
 		</li>
-		<li><img src="{{ base.url }}/images/Nomi/Beacon-spec-02.png" />
+		<li>
+			<a href="{{ base.url }}/images/Nomi/Beacon-spec-02.png" data-lightbox="Sketch" title=""><img src="{{ base.url }}/images/Nomi/Beacon-spec-02.png" /></a>
 		</li>
-		<li><img src="{{ base.url }}/images/Nomi/Beacon-spec-03.png" />
+		<li>
+			<a href="{{ base.url }}/images/Nomi/Beacon-spec-03.png" data-lightbox="Sketch" title=""><img src="{{ base.url }}/images/Nomi/Beacon-spec-03.png" /></a>
 		</li>
-		<li><img src="{{ base.url }}/images/Nomi/Beacon-spec-04.png" />
+		<li>
+			<a href="{{ base.url }}/images/Nomi/Beacon-spec-04.png" data-lightbox="Sketch" title=""><img src="{{ base.url }}/images/Nomi/Beacon-spec-04.png" /></a>
+		</li>
+		<li>
+			<a href="{{ base.url }}/images/Nomi/Beacon-spec-05.png" data-lightbox="Sketch" title=""><img src="{{ base.url }}/images/Nomi/Beacon-spec-05.png" /></a>
+		</li>
+		<li>
+			<a href="{{ base.url }}/images/Nomi/Beacon-spec-06.png" data-lightbox="Sketch" title=""><img src="{{ base.url }}/images/Nomi/Beacon-spec-06.png" /></a>
 		</li>
 	</ul>
 </div>
 
 <div class="images">
-	<img src="{{ base.url }}/images/Nomi/Nike-01.png" />
-	<img src="{{ base.url }}/images/Nomi/Nike-02.png" />
-	<img src="{{ base.url }}/images/Nomi/Nike-03.png" />
+	<a href="{{ base.url }}/images/Nomi/Nike-01.png" data-lightbox="Demo" title=""><img src="{{ base.url }}/images/Nomi/Nike-01.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Nike-02.png" data-lightbox="Demo" title=""><img src="{{ base.url }}/images/Nomi/Nike-02.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Nike-03.png" data-lightbox="Demo" title=""><img src="{{ base.url }}/images/Nomi/Nike-03.png" /></a>
 </div>
 
 

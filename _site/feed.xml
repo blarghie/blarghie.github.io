@@ -285,8 +285,8 @@ Front-end managers at grocery and retail stores needed a dashboard that they can
 As Nomi developed beacon hardware, we then had to equip users with a fleet management system to configure their beacons. We sent out these Nomi beacons to agencies to test &amp;amp; play with.  I designed an app that highlighted what &amp;amp; how the Nomi beacons worked. It including an SDK &amp;amp; a self-serve configurator that the user can immediately play with as they received their beacons.
 &lt;/div&gt;
 &lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/Beacon-config-00.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Beacon-config-01.png&quot; /&gt;
+	&lt;a href=&quot;/images/Nomi/Beacon-config-00.png&quot; data-lightbox=&quot;Nomi Beacon&quot; title=&quot;The screen indicating a Beacon is nearby and can be paired with&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-config-00.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Beacon-config-01.png&quot; data-lightbox=&quot;Nomi Beacon&quot; title=&quot;Log in screen&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-config-01.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;text-block small&quot;&gt;
@@ -296,23 +296,23 @@ Some explorations: &lt;br /&gt;&lt;br /&gt;
 &lt;ul class=&quot;sketch&quot;&gt;
 
 	&lt;li&gt;
-		&lt;img src=&quot;/images/Nomi/Tap-to-register.gif&quot; /&gt;
+		&lt;a href=&quot;/images/Nomi/Tap-to-register.gif&quot; data-lightbox=&quot;Sketches&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Tap-to-register.gif&quot; /&gt;&lt;/a&gt;
 	&lt;/li&gt;	
 	&lt;li&gt;	
-		&lt;img src=&quot;/images/Nomi/Tap-to-register-01.gif&quot; /&gt;
+		&lt;a href=&quot;/images/Nomi/Tap-to-register-01.gif&quot; data-lightbox=&quot;Sketches&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Tap-to-register-01.gif&quot; /&gt;&lt;/a&gt;
 	&lt;/li&gt;
 
 &lt;/ul&gt;
 As the app detected the beacon nearby an animation would fire up wherein it indicates to the user to hold their phone to the beacon until it has paired. After this, the user will be prompted to set up their preferences.&lt;br /&gt;&lt;br /&gt;
-&lt;img class=&quot;sketchHere&quot; src=&quot;/images/Nomi/Tap-demo.jpg&quot; /&gt;
+	&lt;a href=&quot;/images/Nomi/Tap-demo.jpg&quot; data-lightbox=&quot;Sketches&quot; title=&quot;&quot;&gt;&lt;img class=&quot;sketchHere&quot; src=&quot;/images/Nomi/Tap-demo.jpg&quot; /&gt;&lt;/a&gt;
 
 After the user registers their beacon they&#39;ll have the following options to expolre: launch demo, configure beacons or to get more beacons. &lt;br /&gt;&lt;br /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;images&quot;&gt;
-&lt;img src=&quot;/images/Nomi/Beacon-config-02.png&quot; /&gt;
-&lt;img src=&quot;/images/Nomi/Beacon-config-03.png&quot; /&gt;
-&lt;img src=&quot;/images/Nomi/Beacon-config-04.png&quot; /&gt;
-&lt;img src=&quot;/images/Nomi/Beacon-config-05.png&quot; /&gt;
+	&lt;a href=&quot;/images/Nomi/Beacon-config-02.png&quot; data-lightbox=&quot;Nomi Beacon&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-config-02.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Beacon-config-03.png&quot; data-lightbox=&quot;Nomi Beacon&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-config-03.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Beacon-config-04.png&quot; data-lightbox=&quot;Nomi Beacon&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-config-04.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Beacon-config-05.png&quot; data-lightbox=&quot;Nomi Beacon&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-config-05.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
@@ -388,21 +388,30 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 	&lt;br /&gt;&lt;br /&gt;In the QSR case we developed a loyalty program wherein as the user approached the register to pay for her food; she would tap on a device that would &quot;punch&quot; her store card, leading up to promotions.
 	&lt;ul class=&quot;sketch&quot;&gt;
 
-		&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-01.png&quot; /&gt;
+		&lt;li&gt;&lt;a href=&quot;/images/Nomi/Beacon-spec-01.png&quot; data-lightbox=&quot;Sketch&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-01.png&quot; /&gt;&lt;/a&gt;
 		&lt;/li&gt;
-		&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-02.png&quot; /&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/images/Nomi/Beacon-spec-02.png&quot; data-lightbox=&quot;Sketch&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-02.png&quot; /&gt;&lt;/a&gt;
 		&lt;/li&gt;
-		&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-03.png&quot; /&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/images/Nomi/Beacon-spec-03.png&quot; data-lightbox=&quot;Sketch&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-03.png&quot; /&gt;&lt;/a&gt;
 		&lt;/li&gt;
-		&lt;li&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-04.png&quot; /&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/images/Nomi/Beacon-spec-04.png&quot; data-lightbox=&quot;Sketch&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-04.png&quot; /&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/images/Nomi/Beacon-spec-05.png&quot; data-lightbox=&quot;Sketch&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-05.png&quot; /&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/images/Nomi/Beacon-spec-06.png&quot; data-lightbox=&quot;Sketch&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-spec-06.png&quot; /&gt;&lt;/a&gt;
 		&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/Nike-01.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Nike-02.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Nike-03.png&quot; /&gt;
+	&lt;a href=&quot;/images/Nomi/Nike-01.png&quot; data-lightbox=&quot;Demo&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Nike-01.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Nike-02.png&quot; data-lightbox=&quot;Demo&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Nike-02.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Nike-03.png&quot; data-lightbox=&quot;Demo&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Nike-03.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
