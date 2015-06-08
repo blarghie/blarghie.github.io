@@ -19,20 +19,13 @@ We designed canned reports specifically for the users who want to easily digest 
 	More explorations: <br /><br />
 
 <ul class="sketch">
-	<li><img src="{{ base.url }}/images/Nomi/redesign-dash-04.png" />
-	</li>
-	<li><img src="{{ base.url }}/images/Nomi/redesign-sketch-01.png" />
-	</li>
-	<li><img src="{{ base.url }}/images/Nomi/redesign-sketch-02.png" />
-	</li>
-	<li><img src="{{ base.url }}/images/Nomi/redesign-sketch-03.png" />
-	</li>
-	<li><img src="{{ base.url }}/images/Nomi/redesign-sketch-04.png" />
-	</li>
-	<li><img src="{{ base.url }}/images/Nomi/redesign-sketch-05.png" />
-	</li>
-	<li><img src="{{ base.url }}/images/Nomi/redesign-sketch-06.png" />
-	</li>
+	<li><a href="{{ base.url }}/images/Nomi/redesign-dash-04.png" data-lightbox="Sketches" title="Part of a set of early wireframes incorporating hero numbers on the homepage followed by supporting metrics. From here we decided that a majority of users prefer a snapshot of their operations rather than drilling deep into charts."><img src="{{ base.url }}/images/Nomi/redesign-dash-04.png" />	</a></li>
+	<li><a href="{{ base.url }}/images/Nomi/redesign-sketch-01.png" data-lightbox="Sketches" title="An exploration of incorporating charts and tables and treemaps on to a single view for a user" ><img src="{{ base.url }}/images/Nomi/redesign-sketch-01.png" /></a></li>
+	<li><a href="{{ base.url }}/images/Nomi/redesign-sketch-02.png" data-lightbox="Sketches" title="Here we started thinking about guiding the user's workflow by asking them what they need and providing them with custom reports with those results." ><img src="{{ base.url }}/images/Nomi/redesign-sketch-02.png" /></a></li>
+	<li><a href="{{ base.url }}/images/Nomi/redesign-sketch-03.png" data-lightbox="Sketches" title="A variation on the previous sketchwhere instead of showing tables, giving the user a trend report of conversion" ><img src="{{ base.url }}/images/Nomi/redesign-sketch-03.png" /></a></li>
+	<li><a href="{{ base.url }}/images/Nomi/redesign-sketch-04.png" data-lightbox="Sketches" title="A variation on using infographics to tell a story" ><img src="{{ base.url }}/images/Nomi/redesign-sketch-04.png" /></a></li>
+	<li><a href="{{ base.url }}/images/Nomi/redesign-sketch-05.png" data-lightbox="Sketches" title="I've also played with the idea of goal setting, much like fitness trackers setting goals for their users" ><img src="{{ base.url }}/images/Nomi/redesign-sketch-05.png" /></a></li>
+	<li><a href="{{ base.url }}/images/Nomi/redesign-sketch-06.png" data-lightbox="Sketches" title="A variation with a trend line as the main lead in" ><img src="{{ base.url }}/images/Nomi/redesign-sketch-06.png" /></a></li>
 </ul>
 
 Additionally, I built an HTML prototype that also served as a demo for the NRF trade show this past January. Let me know if you're interested in seeing that and I'll pass on a url.

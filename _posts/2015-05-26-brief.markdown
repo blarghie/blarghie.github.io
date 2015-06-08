@@ -10,12 +10,24 @@ Brief is a tool that takes a user's (business) relationships and presents them i
 </div>
 
 <div class="images">
-	<img src="{{ base.url }}/images/Brief/Brief-00.png" />
-	<img src="{{ base.url }}/images/Brief/Brief-01.png" />
-	<img src="{{ base.url }}/images/Brief/Brief-02.png" />
-	<img src="{{ base.url }}/images/Brief/Brief-03.png" />
-	<img src="{{ base.url }}/images/Brief/Brief-05.png" />
-	<img src="{{ base.url }}/images/Brief/Brief-06.png" />
+	<a href="{{ base.url }}/images/Brief/Brief-00.png" data-lightbox="Brief App" title="Exploration of hero area experience"> 
+		<img src="{{ base.url }}/images/Brief/Brief-00.png" />
+	</a>
+	<a href="{{ base.url }}/images/Brief/Brief-01.png" title="" data-lightbox="Brief App" title="Idle list">
+		<img src="{{ base.url }}/images/Brief/Brief-01.png" />
+	</a>
+	<a href="{{ base.url }}/images/Brief/Brief-02.png" title="" data-lightbox="Brief App" title="Swipe right interaction to add to plan list">
+		<img src="{{ base.url }}/images/Brief/Brief-02.png" />
+	</a>
+	<a href="{{ base.url }}/images/Brief/Brief-03.png" title="" data-lightbox="Brief App" title="Swipe left to delete item">
+		<img src="{{ base.url }}/images/Brief/Brief-03.png" />
+	</a>
+	<a href="{{ base.url }}/images/Brief/Brief-05.png" title="" data-lightbox="Brief App" title="Section color exploration">
+		<img src="{{ base.url }}/images/Brief/Brief-05.png" />
+	</a>
+	<a href="{{ base.url }}/images/Brief/Brief-06.png" title="" data-lightbox="Brief App" title="Section color exploration">
+		<img src="{{ base.url }}/images/Brief/Brief-06.png" />
+	</a>
 </div>
 
 

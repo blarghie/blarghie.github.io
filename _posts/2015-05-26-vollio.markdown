@@ -6,14 +6,13 @@ categories: ['Branding']
 tags: ['Branding', 'Login']
 ---
 <div class="text-block">
-I designed Vollio’s brand and logo. The brand speaks to the empowering of a generation to share their time with groups to volunteer and help where they are needed. The product was established because of how the founders felt about a lack of organization & visibility of current organizations.<br /><br />
+I designed Vollio’s brand and logo. The brand speaks to the empowering of a generation to share their time with groups to volunteer and help where they are needed. The product was established because of how the founders felt about a lack of organization &amp; visibility of current organizations.<br /><br />
 </div>
 
 <div class="images">
-	<img src="{{ base.url }}/images/Vollio/vollio-03.png" />
-	<img src="{{ base.url }}/images/Vollio/vollio-00.png" />
-	<img src="{{ base.url }}/images/Vollio/vollio-01.png" />
-	<img src="{{ base.url }}/images/Vollio/vollio-02.png" />
+	<a href="{{ base.url }}/images/Vollio/vollio-03.png" data-lightbox="Vollio" title="Landing page"><img src="{{ base.url }}/images/Vollio/vollio-03.png" /></a>
+	<a href="{{ base.url }}/images/Vollio/vollio-02.png" data-lightbox="Vollio" title="Sign up UI that expands from the top"><img src="{{ base.url }}/images/Vollio/vollio-02.png" /></a>
+	<a href="{{ base.url }}/images/Vollio/vollio-01.png" data-lightbox="Vollio" title="Logged in state"><img src="{{ base.url }}/images/Vollio/vollio-01.png" /></a>
 </div>
 
 
