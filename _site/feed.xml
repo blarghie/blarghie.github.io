@@ -54,9 +54,9 @@ Nomi’s Operations Dashboard is where we display data we collect from our camer
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/operations-000.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/operations-001.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/operations-002.png&quot; /&gt;
+	&lt;a href=&quot;/images/Nomi/operations-000.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;When I first started at Nomi the first task was to explore what a head of Operations for specialty retail would need. We knew a few things about him. We designed an interface that would provide the user with the data they would normally read through a spreadsheet and gave them the power to view this data on a chart that would expose anomalies and trendsetters.&quot;&gt;&lt;img src=&quot;/images/Nomi/operations-000.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/operations-001.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;A view comparing last year&#39;s data (grey area) to the present (blue line)&quot;&gt;&lt;img src=&quot;/images/Nomi/operations-001.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/operations-002.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;A comparison between 2 stores overlayed on top of the average Sales trend&quot;&gt;&lt;img src=&quot;/images/Nomi/operations-002.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;text-block small&quot;&gt;
@@ -64,7 +64,7 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/operations-003.png&quot; /&gt;
+	&lt;a href=&quot;/images/Nomi/operations-003.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;A single store view also called a store profile where the COO or a store manager would see how they&#39;re doing.&quot;&gt; &lt;img src=&quot;/images/Nomi/operations-003.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
@@ -267,10 +267,10 @@ I designed Vollio’s brand and logo. The brand speaks to the empowering of a ge
 Front-end managers at grocery and retail stores needed a dashboard that they can use both while walking around the store and an on-screen version that shows them how many checkout lanes they need to open based off of the line lengths. With another designer we developed &amp;amp; refined an actionable dashboard system to display this data. 
 &lt;/div&gt;
 &lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/lane-mgmt-01.jpg&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/lane-mgmt-02.jpg&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/lane-mgmt-03.jpg&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/lane-mgmt-04.png&quot; /&gt;
+	&lt;a href=&quot;/images/Nomi/lane-mgmt-01.jpg&quot; data-lightbox=&quot;Nomi Lanes&quot; title=&quot;The Lane Management app is the in-store experience for front-end managers to help them manage service areas. A designer and I designed around various use cases and implementations of the data depending on where the user would be viewing it and how much or little to present to them.&quot;&gt;&lt;img src=&quot;/images/Nomi/lane-mgmt-01.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/lane-mgmt-02.jpg&quot; data-lightbox=&quot;Nomi Lanes&quot; title=&quot;Another skect displaying lane status over in addition to hero numbers.&quot;&gt;&lt;img src=&quot;/images/Nomi/lane-mgmt-02.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/lane-mgmt-03.jpg&quot; data-lightbox=&quot;Nomi Lanes&quot; title=&quot;We asked our selves the question: what if there are more lanes than an icon can represent in a single row? We then came up with a system that would show that through numbered and colored boxes&quot;&gt;&lt;img src=&quot;/images/Nomi/lane-mgmt-03.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/lane-mgmt-04.png&quot; data-lightbox=&quot;Nomi Lanes&quot; title=&quot;The mobile view in a case a user was looking at their lane status on a phone or tablet.&quot;&gt;&lt;img src=&quot;/images/Nomi/lane-mgmt-04.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
@@ -441,12 +441,12 @@ Nomi’s event watching software allows Event Managers to see how effective thei
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-00.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-01.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-02.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-03.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-04.png&quot; /&gt;
-	&lt;img src=&quot;/images/Nomi/Measure-05.png&quot; /&gt;
+	&lt;a href=&quot;/images/Nomi/Measure-00.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;A campaign dashboard watching various campaigns&#39; progress&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-00.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Measure-01.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;I designed a wizard that helped users create a campaign in a delightful experience.&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-01.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Measure-02.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-02.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Measure-03.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-03.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Measure-04.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-04.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/Measure-05.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-05.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>

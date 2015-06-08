@@ -11,12 +11,12 @@ Nomi’s event watching software allows Event Managers to see how effective thei
 </div>
 
 <div class="images">
-	<img src="{{ base.url }}/images/Nomi/Measure-00.png" />
-	<img src="{{ base.url }}/images/Nomi/Measure-01.png" />
-	<img src="{{ base.url }}/images/Nomi/Measure-02.png" />
-	<img src="{{ base.url }}/images/Nomi/Measure-03.png" />
-	<img src="{{ base.url }}/images/Nomi/Measure-04.png" />
-	<img src="{{ base.url }}/images/Nomi/Measure-05.png" />
+	<a href="{{ base.url }}/images/Nomi/Measure-00.png" data-lightbox="Nomi Measure" title="A campaign dashboard watching various campaigns' progress"><img src="{{ base.url }}/images/Nomi/Measure-00.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Measure-01.png" data-lightbox="Nomi Measure" title="I designed a wizard that helped users create a campaign in a delightful experience."><img src="{{ base.url }}/images/Nomi/Measure-01.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Measure-02.png" data-lightbox="Nomi Measure" title=""><img src="{{ base.url }}/images/Nomi/Measure-02.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Measure-03.png" data-lightbox="Nomi Measure" title=""><img src="{{ base.url }}/images/Nomi/Measure-03.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Measure-04.png" data-lightbox="Nomi Measure" title=""><img src="{{ base.url }}/images/Nomi/Measure-04.png" /></a>
+	<a href="{{ base.url }}/images/Nomi/Measure-05.png" data-lightbox="Nomi Measure" title=""><img src="{{ base.url }}/images/Nomi/Measure-05.png" /></a>
 </div>
 
 [jekyll-gh]: https://github.com/jekyll/jekyll

@@ -3,7 +3,54 @@ layout: default
 title: About Marie Azcueta
 permalink: /about/
 ---
+<header class="in-pages">
 
+ <div class="header lg-dstop ">
+     <a href="{{ base.url }}/index.html"><h1>marie azcueta</h1></a><br />
+     <span class="small"> interactive designer/illustrator</span>
+ </div> <!-- end lg-dstop header -->
+
+  <div class="header sm-mobile">
+    <h1>
+      <a href="index.html" class="logo">marie azcueta</a> 
+      <a href="mailto:marieazc@gmail.com" class="email pull-right">email</a>
+    </h1>
+  </div> <!-- end sm header -->
+   <div class="menu">
+   
+    <ul>  
+      <li>
+        <a href="{{ base.url }}/category/branding/index.html"> 
+        <div class="menu-title ">Branding</div>
+        </a>
+      </li> 
+      
+      <li class="">
+        <a href="{{ base.url }}/category/dashboards/index.html"> 
+          <div>Dashboards</div>
+        </a>
+       </li> 
+
+       <li class="">
+        <a href="{{ base.url }}/category/mobile/index.html"> 
+          <div>Mobile</div>
+        </a>
+       </li>  
+
+       <li class="pull-right not-menus">
+        <a href="mailto:marieazc@gmail.com"> 
+          <div>Send me an email</div>
+        </a>
+       </li>  
+
+       <li class="pull-right not-menus">
+        <a href="{{ base.url }}/about.html"> 
+          <div>More about me</div>
+        </a>
+       </li>              
+    </ul>
+ </div> <!-- end menu -->
+</header>
 <div class="text-block small">
     <p>Hi! Thank you for checking out my work. </p>
 <p>
@@ -23,7 +70,7 @@ I have worked with amazing teams of engineers, product managers and designers. D
     ~ instagram: <a href="http://instagram.com/blarghie" class="lightRed">blarghie</a><br /><br />
 </p>
 <p>
-<a href="{{ base.url}}/images/azcueta-06-2015.pdf">Here is my resumé</a>. If you like my work, let's talk. If you'd like to talk to people I've worked for for proof that I do great work please get a hold of me via the info I've provided above.
+<a href="{{ base.url}}/images/azcueta-06-2015.pdf" class="lightRed">Here is my resumé</a>. If you like my work, let's talk. If you'd like to talk to people I've worked for for proof that I do great work please get a hold of me via the info I've provided above.
 </p>
 
 </div>
