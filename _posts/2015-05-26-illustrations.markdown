@@ -9,8 +9,8 @@ tags: ['Fun stuff', 'Illustrations']
     <a href="#" class="gallery-box" title="" alt=""> 
         <li class="gallery-thumbnail">
           <div class="gallery-image"> 
-            <a href="{{base.url}}/images/illustrations/robots-03.png" alt="Mr. Robotos" title="Mr. Robotos" data-lightbox="robots">
-              <img src="{{base.url}}/images/illustrations/robots-03.png" alt="" title="">
+            <a href="{{base.url}}/images/Illustrations/robots-03.png" alt="Mr. Robotos" title="Mr. Robotos" data-lightbox="robots">
+              <img src="{{base.url}}/images/Illustrations/robots-03.png" alt="" title="">
           </a>
           </div>
         </li>
