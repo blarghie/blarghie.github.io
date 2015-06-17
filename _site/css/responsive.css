@@ -54,7 +54,7 @@
   }
   .small{
   	margin-top:0;
-    display: none !important;
+    display: inline-block !important;
   }
   .menu{
   }

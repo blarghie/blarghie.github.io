@@ -74,18 +74,24 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       </item>
     
       <item>
-        <title>Illustrations</title>
+        <title>Doodles, Drawings &amp; Fun Things</title>
         <description>&lt;ul class=&quot;gallery&quot;&gt;
-    
+    &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
+        &lt;li class=&quot;gallery-thumbnail&quot;&gt;
+          &lt;div class=&quot;gallery-image&quot;&gt; 
+            &lt;a href=&quot;/images/illustrations/robots-03.png&quot; alt=&quot;Mr. Robotos&quot; title=&quot;Mr. Robotos&quot; data-lightbox=&quot;robots&quot;&gt;
+              &lt;img src=&quot;/images/illustrations/robots-03.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+          &lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/a&gt;
+
     &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt;	
-	          &lt;a href=&quot;images/puppies.png&quot; alt=&quot;&quot; title=&quot;&quot; data-lightbox=&quot;puppies&quot;&gt;
-	          	&lt;img src=&quot;images/puppies.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+	          &lt;a href=&quot;/images/illustrations/puppies.png&quot; alt=&quot;&quot; title=&quot;Office Dogs&quot; data-lightbox=&quot;puppies&quot;&gt;
+	          	&lt;img src=&quot;/images/illustrations/puppies.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	          &lt;/a&gt;	
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-            My Olive and Nera
           &lt;/div&gt;
         &lt;/li&gt;
       &lt;/a&gt;
@@ -94,12 +100,9 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;images/olive.gif&quot; alt=&quot;&quot; title=&quot;&quot; data-lightbox=&quot;olive&quot;&gt;
-	          	&lt;img src=&quot;images/olive.gif&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/illustrations/olive.gif&quot; alt=&quot;&quot; title=&quot;Olive waiting for a toy&quot; data-lightbox=&quot;olive&quot;&gt;
+	          	&lt;img src=&quot;/images/illustrations/olive.gif&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;	
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-            Olive waiting for a toy
           &lt;/div&gt;
         &lt;/li&gt;
       &lt;/a&gt;
@@ -107,12 +110,9 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
        &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;images/patch-people.png&quot; alt=&quot;&quot; title=&quot;&quot; data-lightbox=&quot;peeps&quot;&gt;
-	          	&lt;img src=&quot;images/patch-people.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/illustrations/patch-people.png&quot; alt=&quot;&quot; title=&quot;2.0 Tech Team&quot; data-lightbox=&quot;peeps&quot;&gt;
+	          	&lt;img src=&quot;/images/illustrations/patch-people.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-            My amazing tech team buddies
           &lt;/div&gt;
         &lt;/li&gt;
       &lt;/a&gt;
@@ -120,12 +120,9 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;images/patch-characters.png&quot; alt=&quot;&quot; title=&quot;&quot; data-lightbox=&quot;patch personas&quot;&gt;
-	          	&lt;img src=&quot;images/patch-characters.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/illustrations/patch-characters.png&quot; alt=&quot;&quot; title=&quot;Groups on Floating Islands&quot; data-lightbox=&quot;patch personas&quot;&gt;
+	          	&lt;img src=&quot;/images/illustrations/patch-characters.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-            We are our own island (group)
           &lt;/div&gt;
         &lt;/li&gt;
       &lt;/a&gt;
@@ -134,12 +131,9 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;images/patch-arrows.png&quot; alt=&quot;&quot; title=&quot;&quot; data-lightbox=&quot;patch personas&quot;&gt;
-	          	&lt;img src=&quot;images/patch-arrows.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/illustrations/patch-arrows.png&quot; alt=&quot;&quot; title=&quot;Communication Graphic&quot; data-lightbox=&quot;patch personas&quot;&gt;
+	          	&lt;img src=&quot;/images/illustrations/patch-arrows.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-            Who she wants to get a hold of~ 
           &lt;/div&gt;
         &lt;/li&gt;
       &lt;/a&gt;
@@ -147,12 +141,9 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;images/patch-yard.png&quot; alt=&quot;&quot; title=&quot;&quot; data-lightbox=&quot;patch personas&quot;&gt;
-	          	&lt;img src=&quot;images/patch-yard.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/illustrations/patch-yard.png&quot; alt=&quot;&quot; title=&quot;Joining a Yard Party&quot; data-lightbox=&quot;patch personas&quot;&gt;
+	          	&lt;img src=&quot;/images/illustrations/patch-yard.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-            There&#39;s a party in there
           &lt;/div&gt;
         &lt;/li&gt;
       &lt;/a&gt;
@@ -160,12 +151,9 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;images/do-yoga.jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-lightbox=&quot;patch personas&quot;&gt;
-	          	&lt;img src=&quot;images/do-yoga.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/illustrations/do-yoga.jpg&quot; alt=&quot;&quot; title=&quot;Hanging out the window&quot; data-lightbox=&quot;patch personas&quot;&gt;
+	          	&lt;img src=&quot;/images/illustrations/do-yoga.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-            Puppy loves hanging out of the window
           &lt;/div&gt;
         &lt;/li&gt;
       &lt;/a&gt;
@@ -175,28 +163,22 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;images/cf2-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-lightbox=&quot;ladies&quot;&gt;
-	          	&lt;img src=&quot;images/cf2-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/illustrations/cf2-01.jpg&quot; alt=&quot;&quot; title=&quot;she burped&quot; data-lightbox=&quot;ladies&quot;&gt;
+	          	&lt;img src=&quot;/images/illustrations/cf2-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
           &lt;/div&gt;         
-          &lt;div class=&quot;caption&quot;&gt;
-            {buuuuurp} ahem
-          &lt;/div&gt;
         &lt;/li&gt;
       &lt;/a&gt;
-      &lt;!--
+      
 &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;img src=&quot;images/cottonflow_ebb-02.png&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-          &lt;/div&gt;
+            &lt;a href=&quot;/images/illustrations/cottonflow_ebb-02.png&quot; alt=&quot;Hair&quot; title=&quot;&quot; data-lightbox=&quot;ladies&quot;&gt;
+              &lt;img src=&quot;/images/illustrations/cottonflow_ebb-02.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+          &lt;/a&gt;
+          &lt;/div&gt;         
         &lt;/li&gt;
-      &lt;/a&gt;
---&gt;
-      
-      
+      &lt;/a&gt; 
       &lt;!--
 &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
@@ -208,38 +190,12 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
           &lt;/div&gt;
         &lt;/li&gt;
       &lt;/a&gt;
---&gt;
-      &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
-        &lt;li class=&quot;gallery-thumbnail&quot;&gt;
-          &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;http://marieazcueta.com/images/robots-03.png&quot; alt=&quot;&quot; title=&quot;&quot; data-lightbox=&quot;robots&quot;&gt;
-	          	&lt;img src=&quot;http://marieazcueta.com/images/robots-03.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
-	        &lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-            Mr. Robotos
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/a&gt;
-      &lt;!--
-&lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
-        &lt;li class=&quot;gallery-thumbnail&quot;&gt;
-          &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;img src=&quot;images/divesting-doloris.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;caption&quot;&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/a&gt;
---&gt;
-     
-      
+--&gt;   
     &lt;/ul&gt;
-
 </description>
         <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/illustrations/illustrations.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/illustrations/illustrations.html</guid>
+        <link>http://marieazcueta.com/funstuff/illustrations.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/funstuff/illustrations.html</guid>
       </item>
     
       <item>

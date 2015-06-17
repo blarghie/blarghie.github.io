@@ -43,7 +43,7 @@ body {
 
 .menu ul li{
 	display: inline-block;
-  text-transform: capitalize;
+  text-transform: none;
   padding: 8px 12px 8px 12px;
   margin: 0 2px 8px 2px;
 }
