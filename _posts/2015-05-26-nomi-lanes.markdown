@@ -2,7 +2,7 @@
 layout: post
 title:  "Nomi Lane Management"
 date:   2015-05-26 23:00:00
-category: ['Dashboards']
+category: ['-']
 tags: ['Nomi', 'Apps', 'Mobile', 'Dashboard']
 ---
 <div class="text-block">

@@ -2,7 +2,7 @@
 layout: post
 title:  "Measure Dashboard"
 date:   2015-05-26 17:00:00
-categories: ['Dashboards']
+categories: ['-']
 tags: ['Nomi', 'Marketing','Campaigns','Workflow','Dashboard']
 ---
 

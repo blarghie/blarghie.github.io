@@ -43,8 +43,8 @@ Additionally, I built an HTML prototype that also served as a demo for the NRF t
 
 </description>
         <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/dashboards/nomi-redesign.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/dashboards/nomi-redesign.html</guid>
+        <link>http://marieazcueta.com/-/nomi-redesign.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/-/nomi-redesign.html</guid>
       </item>
     
       <item>
@@ -79,8 +79,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
     &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;/images/illustrations/robots-03.png&quot; alt=&quot;Mr. Robotos&quot; title=&quot;Mr. Robotos&quot; data-lightbox=&quot;robots&quot;&gt;
-              &lt;img src=&quot;/images/illustrations/robots-03.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/Illustrations/robots-03.png&quot; alt=&quot;Mr. Robotos&quot; title=&quot;Mr. Robotos&quot; data-lightbox=&quot;robots&quot;&gt;
+              &lt;img src=&quot;/images/Illustrations/robots-03.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
           &lt;/a&gt;
           &lt;/div&gt;
         &lt;/li&gt;
@@ -89,8 +89,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
     &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt;	
-	          &lt;a href=&quot;/images/illustrations/puppies.png&quot; alt=&quot;&quot; title=&quot;Office Dogs&quot; data-lightbox=&quot;puppies&quot;&gt;
-	          	&lt;img src=&quot;/images/illustrations/puppies.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+	          &lt;a href=&quot;/images/Illustrations/puppies.png&quot; alt=&quot;&quot; title=&quot;Office Dogs&quot; data-lightbox=&quot;puppies&quot;&gt;
+	          	&lt;img src=&quot;/images/Illustrations/puppies.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	          &lt;/a&gt;	
           &lt;/div&gt;
         &lt;/li&gt;
@@ -100,8 +100,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;/images/illustrations/olive.gif&quot; alt=&quot;&quot; title=&quot;Olive waiting for a toy&quot; data-lightbox=&quot;olive&quot;&gt;
-	          	&lt;img src=&quot;/images/illustrations/olive.gif&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/Illustrations/olive.gif&quot; alt=&quot;&quot; title=&quot;Olive waiting for a toy&quot; data-lightbox=&quot;olive&quot;&gt;
+	          	&lt;img src=&quot;/images/Illustrations/olive.gif&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;	
           &lt;/div&gt;
         &lt;/li&gt;
@@ -110,8 +110,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
        &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;/images/illustrations/patch-people.png&quot; alt=&quot;&quot; title=&quot;2.0 Tech Team&quot; data-lightbox=&quot;peeps&quot;&gt;
-	          	&lt;img src=&quot;/images/illustrations/patch-people.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/Illustrations/patch-people.png&quot; alt=&quot;&quot; title=&quot;2.0 Tech Team&quot; data-lightbox=&quot;peeps&quot;&gt;
+	          	&lt;img src=&quot;/images/Illustrations/patch-people.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
           &lt;/div&gt;
         &lt;/li&gt;
@@ -120,8 +120,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;/images/illustrations/patch-characters.png&quot; alt=&quot;&quot; title=&quot;Groups on Floating Islands&quot; data-lightbox=&quot;patch personas&quot;&gt;
-	          	&lt;img src=&quot;/images/illustrations/patch-characters.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/Illustrations/patch-characters.png&quot; alt=&quot;&quot; title=&quot;Groups on Floating Islands&quot; data-lightbox=&quot;patch personas&quot;&gt;
+	          	&lt;img src=&quot;/images/Illustrations/patch-characters.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
           &lt;/div&gt;
         &lt;/li&gt;
@@ -131,8 +131,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;/images/illustrations/patch-arrows.png&quot; alt=&quot;&quot; title=&quot;Communication Graphic&quot; data-lightbox=&quot;patch personas&quot;&gt;
-	          	&lt;img src=&quot;/images/illustrations/patch-arrows.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/Illustrations/patch-arrows.png&quot; alt=&quot;&quot; title=&quot;Communication Graphic&quot; data-lightbox=&quot;patch personas&quot;&gt;
+	          	&lt;img src=&quot;/images/Illustrations/patch-arrows.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
           &lt;/div&gt;
         &lt;/li&gt;
@@ -141,8 +141,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;/images/illustrations/patch-yard.png&quot; alt=&quot;&quot; title=&quot;Joining a Yard Party&quot; data-lightbox=&quot;patch personas&quot;&gt;
-	          	&lt;img src=&quot;/images/illustrations/patch-yard.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/Illustrations/patch-yard.png&quot; alt=&quot;&quot; title=&quot;Joining a Yard Party&quot; data-lightbox=&quot;patch personas&quot;&gt;
+	          	&lt;img src=&quot;/images/Illustrations/patch-yard.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
           &lt;/div&gt;
         &lt;/li&gt;
@@ -151,8 +151,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;/images/illustrations/do-yoga.jpg&quot; alt=&quot;&quot; title=&quot;Hanging out the window&quot; data-lightbox=&quot;patch personas&quot;&gt;
-	          	&lt;img src=&quot;/images/illustrations/do-yoga.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/Illustrations/do-yoga.jpg&quot; alt=&quot;&quot; title=&quot;Hanging out the window&quot; data-lightbox=&quot;patch personas&quot;&gt;
+	          	&lt;img src=&quot;/images/Illustrations/do-yoga.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
           &lt;/div&gt;
         &lt;/li&gt;
@@ -163,8 +163,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
       &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;/images/illustrations/cf2-01.jpg&quot; alt=&quot;&quot; title=&quot;she burped&quot; data-lightbox=&quot;ladies&quot;&gt;
-	          	&lt;img src=&quot;/images/illustrations/cf2-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/Illustrations/cf2-01.jpg&quot; alt=&quot;&quot; title=&quot;she burped&quot; data-lightbox=&quot;ladies&quot;&gt;
+	          	&lt;img src=&quot;/images/Illustrations/cf2-01.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
 	        &lt;/a&gt;
           &lt;/div&gt;         
         &lt;/li&gt;
@@ -173,8 +173,8 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
 &lt;a href=&quot;#&quot; class=&quot;gallery-box&quot; title=&quot;&quot; alt=&quot;&quot;&gt; 
         &lt;li class=&quot;gallery-thumbnail&quot;&gt;
           &lt;div class=&quot;gallery-image&quot;&gt; 
-            &lt;a href=&quot;/images/illustrations/cottonflow_ebb-02.png&quot; alt=&quot;Hair&quot; title=&quot;&quot; data-lightbox=&quot;ladies&quot;&gt;
-              &lt;img src=&quot;/images/illustrations/cottonflow_ebb-02.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
+            &lt;a href=&quot;/images/Illustrations/cottonflow_ebb-02.png&quot; alt=&quot;Hair&quot; title=&quot;&quot; data-lightbox=&quot;ladies&quot;&gt;
+              &lt;img src=&quot;/images/Illustrations/cottonflow_ebb-02.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;
           &lt;/a&gt;
           &lt;/div&gt;         
         &lt;/li&gt;
@@ -231,8 +231,8 @@ Front-end managers at grocery and retail stores needed a dashboard that they can
 
 </description>
         <pubDate>Tue, 26 May 2015 19:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/dashboards/nomi-lanes.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/dashboards/nomi-lanes.html</guid>
+        <link>http://marieazcueta.com/-/nomi-lanes.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/-/nomi-lanes.html</guid>
       </item>
     
       <item>
@@ -416,8 +416,8 @@ Nomi’s event watching software allows Event Managers to see how effective thei
 
 </description>
         <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/dashboards/nomi-event.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/dashboards/nomi-event.html</guid>
+        <link>http://marieazcueta.com/-/nomi-event.html</link>
+        <guid isPermaLink="true">http://marieazcueta.com/-/nomi-event.html</guid>
       </item>
     
   </channel>

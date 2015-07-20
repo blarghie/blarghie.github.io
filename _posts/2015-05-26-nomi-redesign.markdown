@@ -2,7 +2,7 @@
 layout: post
 title:  "Nomi Redesign"
 date:   2015-05-26 24:00:00
-categories: ['Dashboards']
+categories: ['-']
 tags: ['Nomi', 'Dashboard', 'Redesign']
 ---
 <div class="text-block">
