@@ -3,9 +3,9 @@ layout: homepage
 ---
 <div>
 <ul class="gallery">
-      <a class="gallery-box" href="{{ base.url }}/category/branding">
+      <li class="gallery-box">
       {% for post in site.categories.branding limit:1 %} 
-        <li> 
+        <a href="{{ base.url }}/category/branding"> 
         <div class="gallery-thumbnail">
         <div class="title homepage-titles blue" >{{ post.categories }}</div>
         <div class="gallery-image homepage-thumb orangeBg"> 
@@ -23,13 +23,13 @@ layout: homepage
         {% endfor %}
           </div>
         </div>
-        </li>
+        </a>
         {% endfor %}
-      </a>
+      </li>
 
-     <a class="gallery-box"  href="{{ base.url }}/category/dashboards/">
+     <li class="gallery-box">
       {% for post in site.categories.dashboards limit:1 %} 
-        <li> 
+        <a href="{{ base.url }}/category/dashboards/"> 
         <div class="gallery-thumbnail">
         <div class="title homepage-titles pink">{{ post.categories }}</div>
         <div class="gallery-image homepage-thumb purpleBg"> 
@@ -47,13 +47,13 @@ layout: homepage
         {% endfor %}
           </div>
         </div>
-        </li>
+        </a>
         {% endfor %}
-      </a>
+      </li>
 
-      <a class="gallery-box" href="{{ base.url }}/category/mobile/">
+      <li class="gallery-box">
       {% for post in site.categories.mobile limit:1 %}  
-        <li>
+        <a href="{{ base.url }}/category/mobile/">
         <div class="gallery-thumbnail">
         <div class="title homepage-titles teal">{{ post.categories }}</div>
         <div class="gallery-image homepage-thumb blueBg"> 
@@ -71,9 +71,9 @@ layout: homepage
         {% endfor %}
           </div>
         </div>
-        </li>
+        </a>
         {% endfor %}
-      </a>
+      </li>
  
   </ul>
 
