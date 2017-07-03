@@ -5,6 +5,9 @@
     <description>Graphic Designer &gt; Product Designer &gt; Visual Designer at Bloomberg UX </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 03 Jul 2017 12:40:39 -0400</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2017 12:40:39 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -23,9 +26,17 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 31 May 2017 15:02:23 +0000</pubDate>
+        <pubDate>Wed, 31 May 2017 11:02:23 -0400</pubDate>
         <link>http://localhost:4000/marieazcueta-site/jekyll/update/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://localhost:4000/marieazcueta-site/jekyll/update/welcome-to-jekyll.html</guid>
+        
+        
+        <category>marieazcueta-site</category>
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
       </item>
     
       <item>
@@ -64,9 +75,19 @@ Additionally, I built an HTML prototype that also served as a demo for the NRF t
 &lt;/div&gt;
 
 </description>
-        <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
         <link>http://localhost:4000/-/nomi-redesign.html</link>
         <guid isPermaLink="true">http://localhost:4000/-/nomi-redesign.html</guid>
+        
+        <category>Nomi</category>
+        
+        <category>Dashboard</category>
+        
+        <category>Redesign</category>
+        
+        
+        <category>-</category>
+        
       </item>
     
       <item>
@@ -90,9 +111,19 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
 &lt;/div&gt;
 
 </description>
-        <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
         <link>http://localhost:4000/dashboards/nomi-listen.html</link>
         <guid isPermaLink="true">http://localhost:4000/dashboards/nomi-listen.html</guid>
+        
+        <category>Nomi</category>
+        
+        <category>Apps</category>
+        
+        <category>Dashboard</category>
+        
+        
+        <category>Dashboards</category>
+        
       </item>
     
       <item>
@@ -215,9 +246,17 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
 --&gt;   
     &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
         <link>http://localhost:4000/funstuff/illustrations.html</link>
         <guid isPermaLink="true">http://localhost:4000/funstuff/illustrations.html</guid>
+        
+        <category>Fun stuff</category>
+        
+        <category>Illustrations</category>
+        
+        
+        <category>FunStuff</category>
+        
       </item>
     
       <item>
@@ -234,9 +273,13 @@ I designed Vollio’s brand and logo. The brand speaks to the empowering of a ge
 &lt;/div&gt;
 
 </description>
-        <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
         <link>http://localhost:4000/error-pages.html</link>
         <guid isPermaLink="true">http://localhost:4000/error-pages.html</guid>
+        
+        <category>Illustrations</category>
+        
+        
       </item>
     
       <item>
@@ -252,9 +295,21 @@ Front-end managers at grocery and retail stores needed a dashboard that they can
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 23:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2015 19:00:00 -0400</pubDate>
         <link>http://localhost:4000/-/nomi-lanes.html</link>
         <guid isPermaLink="true">http://localhost:4000/-/nomi-lanes.html</guid>
+        
+        <category>Nomi</category>
+        
+        <category>Apps</category>
+        
+        <category>Mobile</category>
+        
+        <category>Dashboard</category>
+        
+        
+        <category>-</category>
+        
       </item>
     
       <item>
@@ -294,9 +349,19 @@ After the user registers their beacon they'll have the following options to expo
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 23:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2015 19:00:00 -0400</pubDate>
         <link>http://localhost:4000/mobile/nomi-apps.html</link>
         <guid isPermaLink="true">http://localhost:4000/mobile/nomi-apps.html</guid>
+        
+        <category>Nomi</category>
+        
+        <category>Mobile</category>
+        
+        <category>Apps</category>
+        
+        
+        <category>Mobile</category>
+        
       </item>
     
       <item>
@@ -347,9 +412,17 @@ Some explorations: &lt;br /&gt;&lt;br /&gt;
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 21:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2015 17:00:00 -0400</pubDate>
         <link>http://localhost:4000/branding/patch-redesign.html</link>
         <guid isPermaLink="true">http://localhost:4000/branding/patch-redesign.html</guid>
+        
+        <category>Redesign</category>
+        
+        <category>Patch</category>
+        
+        
+        <category>Branding</category>
+        
       </item>
     
       <item>
@@ -393,9 +466,19 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 20:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2015 16:00:00 -0400</pubDate>
         <link>http://localhost:4000/mobile/nomi-demo-apps.html</link>
         <guid isPermaLink="true">http://localhost:4000/mobile/nomi-demo-apps.html</guid>
+        
+        <category>Nomi</category>
+        
+        <category>Apps</category>
+        
+        <category>Mobile</category>
+        
+        
+        <category>Mobile</category>
+        
       </item>
     
       <item>
@@ -416,9 +499,19 @@ Redesigning meant creating a system that would translate to various use cases in
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 17:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
         <link>http://localhost:4000/branding/nomi-styleguide.html</link>
         <guid isPermaLink="true">http://localhost:4000/branding/nomi-styleguide.html</guid>
+        
+        <category>Styleguide</category>
+        
+        <category>Patterns</category>
+        
+        <category>Nomi</category>
+        
+        
+        <category>Branding</category>
+        
       </item>
     
   </channel>
