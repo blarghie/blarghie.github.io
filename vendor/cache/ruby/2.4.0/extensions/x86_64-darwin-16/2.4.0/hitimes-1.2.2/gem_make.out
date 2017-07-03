@@ -1,0 +1,20 @@
+current directory: /Users/marieazcueta/Portfolio/blarghie.github.io/vendor/cache/ruby/2.4.0/gems/hitimes-1.2.2/ext/hitimes/c
+/Users/marieazcueta/.rvm/rubies/ruby-2.4.0/bin/ruby -r ./siteconf20170703-51678-zld3yw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/marieazcueta/Portfolio/blarghie.github.io/vendor/cache/ruby/2.4.0/gems/hitimes-1.2.2/ext/hitimes/c
+make "DESTDIR=" clean
+
+current directory: /Users/marieazcueta/Portfolio/blarghie.github.io/vendor/cache/ruby/2.4.0/gems/hitimes-1.2.2/ext/hitimes/c
+make "DESTDIR="
+compiling hitimes.c
+compiling hitimes_instant_clock_gettime.c
+compiling hitimes_instant_osx.c
+compiling hitimes_instant_windows.c
+compiling hitimes_interval.c
+compiling hitimes_stats.c
+linking shared-object hitimes/2.4/hitimes.bundle
+
+current directory: /Users/marieazcueta/Portfolio/blarghie.github.io/vendor/cache/ruby/2.4.0/gems/hitimes-1.2.2/ext/hitimes/c
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 hitimes.bundle ./.gem.20170703-51678-1spv1j4/hitimes/2.4

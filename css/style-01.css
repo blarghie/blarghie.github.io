@@ -175,7 +175,7 @@ ul, li {
   padding: 0; }
 
 .gallery-box{
-  display:          inline-flex;
+  /*display:          inline-flex;*/
   flex-flow:        row wrap;
   margin-right:     4px;
   justify-content:  space-between;

@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marie Azcueta</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://marieazcueta.com/</link>
-    <atom:link href="http://marieazcueta.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Graphic Designer &gt; Product Designer &gt; Visual Designer at Bloomberg UX </description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 31 May 2017 15:02:23 +0000</pubDate>
+        <link>http://localhost:4000/marieazcueta-site/jekyll/update/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/marieazcueta-site/jekyll/update/welcome-to-jekyll.html</guid>
+      </item>
     
       <item>
         <title>Nomi Redesign</title>
@@ -12,7 +34,7 @@
 The Listen Grid was my initial attempt to organize the data we collect in a manner that our users would be able to view &amp;amp; manipulate it. After a year, we learned a lot about our users and how they use our product, mostly that they needed their associates to be able to analyze the data we collect without spending too much time on it. We then came up with  reports that made the data we have more digestible. &lt;br /&gt;&lt;br /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;images&quot;&gt;
-	&lt;a href=&quot;/images/Nomi/nomi-redesign-00.png&quot; data-lightbox=&quot;Nomi Redesign&quot; title=&quot;A dashboard to give the user an overvew of a district&#39;s performance. There was a need to be able to surface aggragated data by a collection of floors and being able to easily select those and customizing dates. I designed a dashboard that gave the user what they needed and still allowed them the flexibility of viewing what store or metrics they specifically needed at a given time.&quot;&gt;&lt;img src=&quot;/images/Nomi/nomi-redesign-00.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/nomi-redesign-00.png&quot; data-lightbox=&quot;Nomi Redesign&quot; title=&quot;A dashboard to give the user an overvew of a district's performance. There was a need to be able to surface aggragated data by a collection of floors and being able to easily select those and customizing dates. I designed a dashboard that gave the user what they needed and still allowed them the flexibility of viewing what store or metrics they specifically needed at a given time.&quot;&gt;&lt;img src=&quot;/images/Nomi/nomi-redesign-00.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class=&quot;text-block small&quot;&gt;
 We designed canned reports specifically for the users who want to easily digest the data we present. We give them what we think they need: charts of trending days and hours of highest and average traffic over time and the hours in the day where foot traffic was heavier. &lt;br /&gt;&lt;br /&gt;
@@ -24,14 +46,14 @@ We designed canned reports specifically for the users who want to easily digest 
 &lt;ul class=&quot;sketch&quot;&gt;
 	&lt;li&gt;&lt;a href=&quot;/images/Nomi/redesign-dash-04.png&quot; data-lightbox=&quot;Sketches&quot; title=&quot;Part of a set of early wireframes incorporating hero numbers on the homepage followed by supporting metrics. From here we decided that a majority of users prefer a snapshot of their operations rather than drilling deep into charts.&quot;&gt;&lt;img src=&quot;/images/Nomi/redesign-dash-04.png&quot; /&gt;	&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;/images/Nomi/redesign-sketch-01.png&quot; data-lightbox=&quot;Sketches&quot; title=&quot;An exploration of incorporating charts and tables and treemaps on to a single view for a user&quot;&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-01.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;/images/Nomi/redesign-sketch-02.png&quot; data-lightbox=&quot;Sketches&quot; title=&quot;Here we started thinking about guiding the user&#39;s workflow by asking them what they need and providing them with custom reports with those results.&quot;&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-02.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/images/Nomi/redesign-sketch-02.png&quot; data-lightbox=&quot;Sketches&quot; title=&quot;Here we started thinking about guiding the user's workflow by asking them what they need and providing them with custom reports with those results.&quot;&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-02.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;/images/Nomi/redesign-sketch-03.png&quot; data-lightbox=&quot;Sketches&quot; title=&quot;A variation on the previous sketchwhere instead of showing tables, giving the user a trend report of conversion&quot;&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-03.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;/images/Nomi/redesign-sketch-04.png&quot; data-lightbox=&quot;Sketches&quot; title=&quot;A variation on using infographics to tell a story&quot;&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-04.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;/images/Nomi/redesign-sketch-05.png&quot; data-lightbox=&quot;Sketches&quot; title=&quot;I&#39;ve also played with the idea of goal setting, much like fitness trackers setting goals for their users&quot;&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-05.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/images/Nomi/redesign-sketch-05.png&quot; data-lightbox=&quot;Sketches&quot; title=&quot;I've also played with the idea of goal setting, much like fitness trackers setting goals for their users&quot;&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-05.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;/images/Nomi/redesign-sketch-06.png&quot; data-lightbox=&quot;Sketches&quot; title=&quot;A variation with a trend line as the main lead in&quot;&gt;&lt;img src=&quot;/images/Nomi/redesign-sketch-06.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-Additionally, I built an HTML prototype that also served as a demo for the NRF trade show this past January. Let me know if you&#39;re interested in seeing that and I&#39;ll pass on a url.
+Additionally, I built an HTML prototype that also served as a demo for the NRF trade show this past January. Let me know if you're interested in seeing that and I'll pass on a url.
 
 &lt;/div&gt;
 &lt;div class=&quot;images&quot;&gt;
@@ -42,9 +64,9 @@ Additionally, I built an HTML prototype that also served as a demo for the NRF t
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/-/nomi-redesign.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/-/nomi-redesign.html</guid>
+        <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/-/nomi-redesign.html</link>
+        <guid isPermaLink="true">http://localhost:4000/-/nomi-redesign.html</guid>
       </item>
     
       <item>
@@ -55,7 +77,7 @@ Nomi’s Operations Dashboard is where we display data we collect from our camer
 
 &lt;div class=&quot;images&quot;&gt;
 	&lt;a href=&quot;/images/Nomi/operations-000.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;When I first started at Nomi the first task was to explore what a head of Operations for specialty retail would need. We knew a few things about him. We designed an interface that would provide the user with the data they would normally read through a spreadsheet and gave them the power to view this data on a chart that would expose anomalies and trendsetters.&quot;&gt;&lt;img src=&quot;/images/Nomi/operations-000.png&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;/images/Nomi/operations-001.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;A view comparing last year&#39;s data (grey area) to the present (blue line)&quot;&gt;&lt;img src=&quot;/images/Nomi/operations-001.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/operations-001.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;A view comparing last year's data (grey area) to the present (blue line)&quot;&gt;&lt;img src=&quot;/images/Nomi/operations-001.png&quot; /&gt;&lt;/a&gt;
 	&lt;a href=&quot;/images/Nomi/operations-002.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;A comparison between 2 stores overlayed on top of the average Sales trend&quot;&gt;&lt;img src=&quot;/images/Nomi/operations-002.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
@@ -64,13 +86,13 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
-	&lt;a href=&quot;/images/Nomi/operations-003.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;A single store view also called a store profile where the COO or a store manager would see how they&#39;re doing.&quot;&gt; &lt;img src=&quot;/images/Nomi/operations-003.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;/images/Nomi/operations-003.png&quot; data-lightbox=&quot;Nomi Listen&quot; title=&quot;A single store view also called a store profile where the COO or a store manager would see how they're doing.&quot;&gt; &lt;img src=&quot;/images/Nomi/operations-003.png&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/dashboards/nomi-listen.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/dashboards/nomi-listen.html</guid>
+        <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/dashboards/nomi-listen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dashboards/nomi-listen.html</guid>
       </item>
     
       <item>
@@ -193,9 +215,9 @@ A store profile page meanwhile is a drill in for COOs and an overview for a stor
 --&gt;   
     &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/funstuff/illustrations.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/funstuff/illustrations.html</guid>
+        <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/funstuff/illustrations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/funstuff/illustrations.html</guid>
       </item>
     
       <item>
@@ -212,9 +234,9 @@ I designed Vollio’s brand and logo. The brand speaks to the empowering of a ge
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 20:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/error-pages.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/error-pages.html</guid>
+        <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/error-pages.html</link>
+        <guid isPermaLink="true">http://localhost:4000/error-pages.html</guid>
       </item>
     
       <item>
@@ -230,9 +252,9 @@ Front-end managers at grocery and retail stores needed a dashboard that they can
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 19:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/-/nomi-lanes.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/-/nomi-lanes.html</guid>
+        <pubDate>Tue, 26 May 2015 23:00:00 +0000</pubDate>
+        <link>http://localhost:4000/-/nomi-lanes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/-/nomi-lanes.html</guid>
       </item>
     
       <item>
@@ -262,7 +284,7 @@ Some explorations: &lt;br /&gt;&lt;br /&gt;
 As the app detected the beacon nearby an animation would fire up wherein it indicates to the user to hold their phone to the beacon until it has paired. After this, the user will be prompted to set up their preferences.&lt;br /&gt;&lt;br /&gt;
 	&lt;a href=&quot;/images/Nomi/Tap-demo.jpg&quot; data-lightbox=&quot;Sketches&quot; title=&quot;&quot;&gt;&lt;img class=&quot;sketchHere&quot; src=&quot;/images/Nomi/Tap-demo.jpg&quot; /&gt;&lt;/a&gt;
 
-After the user registers their beacon they&#39;ll have the following options to expolre: launch demo, configure beacons or to get more beacons. &lt;br /&gt;&lt;br /&gt;
+After the user registers their beacon they'll have the following options to expolre: launch demo, configure beacons or to get more beacons. &lt;br /&gt;&lt;br /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;images&quot;&gt;
 	&lt;a href=&quot;/images/Nomi/Beacon-config-02.png&quot; data-lightbox=&quot;Nomi Beacon&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Beacon-config-02.png&quot; /&gt;&lt;/a&gt;
@@ -272,9 +294,9 @@ After the user registers their beacon they&#39;ll have the following options to 
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 19:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/mobile/nomi-apps.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/mobile/nomi-apps.html</guid>
+        <pubDate>Tue, 26 May 2015 23:00:00 +0000</pubDate>
+        <link>http://localhost:4000/mobile/nomi-apps.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mobile/nomi-apps.html</guid>
       </item>
     
       <item>
@@ -283,7 +305,7 @@ After the user registers their beacon they&#39;ll have the following options to 
 Patch is a local news site, it was envioned to be an online bulletin board for communities. At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. &lt;br /&gt;&lt;br /&gt;
 
 Our team conducted various ethnographic research and user testing with focus groups and individuals to see if our product would be something our target users would use. We A/B tested UI and interactions to figure out which of our solutions was the easiest for users to interact with and to contribute content. Then we built it. 
-
+&amp;lt;/span&amp;gt;
 
 &lt;/div&gt;
 
@@ -325,15 +347,15 @@ Some explorations: &lt;br /&gt;&lt;br /&gt;
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 17:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/branding/patch-redesign.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/branding/patch-redesign.html</guid>
+        <pubDate>Tue, 26 May 2015 21:00:00 +0000</pubDate>
+        <link>http://localhost:4000/branding/patch-redesign.html</link>
+        <guid isPermaLink="true">http://localhost:4000/branding/patch-redesign.html</guid>
       </item>
     
       <item>
         <title>Nomi Demo Apps</title>
         <description>&lt;div class=&quot;text-block&quot;&gt;
-Our team collaborated to create beacon use cases to demo in app experiences. In it users would be able to interact with beacon merchandise. If a user has the store app or a partner&#39;s app.Interacting with the merchandise with a tap of a user’s phone would pull up the information about that product &amp;amp; a discount on that product. 
+Our team collaborated to create beacon use cases to demo in app experiences. In it users would be able to interact with beacon merchandise. If a user has the store app or a partner's app.Interacting with the merchandise with a tap of a user’s phone would pull up the information about that product &amp;amp; a discount on that product. 
 &lt;/div&gt;
 
 &lt;div class=&quot;images&quot;&gt;
@@ -371,9 +393,9 @@ Our team collaborated to create beacon use cases to demo in app experiences. In 
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 16:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/mobile/nomi-demo-apps.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/mobile/nomi-demo-apps.html</guid>
+        <pubDate>Tue, 26 May 2015 20:00:00 +0000</pubDate>
+        <link>http://localhost:4000/mobile/nomi-demo-apps.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mobile/nomi-demo-apps.html</guid>
       </item>
     
       <item>
@@ -394,30 +416,9 @@ Redesigning meant creating a system that would translate to various use cases in
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/branding/nomi-styleguide.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/branding/nomi-styleguide.html</guid>
-      </item>
-    
-      <item>
-        <title>Measure Dashboard</title>
-        <description>&lt;div class=&quot;text-block&quot;&gt;
-Nomi’s event watching software allows Event Managers to see how effective their campaigns are by showing what percentage of their customers are coming back after an event and if they become loyal customers after that. It also shows what percentage of visitors in the past 30 day attribution period  have come back &amp;amp; have been “reactivated” by an on-going campaign. In addition to this dashboard I also designed a campaign creation experience that walks the user through the setup process.
-&lt;/div&gt;
-
-&lt;div class=&quot;images&quot;&gt;
-	&lt;a href=&quot;/images/Nomi/Measure-00.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;A campaign dashboard watching various campaigns&#39; progress&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-00.png&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;/images/Nomi/Measure-01.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;I designed a wizard that helped users create a campaign in a delightful experience.&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-01.png&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;/images/Nomi/Measure-02.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-02.png&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;/images/Nomi/Measure-03.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-03.png&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;/images/Nomi/Measure-04.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-04.png&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;/images/Nomi/Measure-05.png&quot; data-lightbox=&quot;Nomi Measure&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/images/Nomi/Measure-05.png&quot; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 26 May 2015 13:00:00 -0400</pubDate>
-        <link>http://marieazcueta.com/-/nomi-event.html</link>
-        <guid isPermaLink="true">http://marieazcueta.com/-/nomi-event.html</guid>
+        <pubDate>Tue, 26 May 2015 17:00:00 +0000</pubDate>
+        <link>http://localhost:4000/branding/nomi-styleguide.html</link>
+        <guid isPermaLink="true">http://localhost:4000/branding/nomi-styleguide.html</guid>
       </item>
     
   </channel>
