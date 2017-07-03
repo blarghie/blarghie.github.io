@@ -9,4 +9,4 @@ url: "http://marieazcueta.com"
 markdown: kramdown
 permalink: none
 exclude: [Gemfile*]
-category-list: ['Dashboard', 'Styleguide', 'Apps', 'Design']
+category-list: ['Dashboard', 'Styleguide', 'Apps', 'Design', 'Illustrations']
