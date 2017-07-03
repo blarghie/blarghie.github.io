@@ -1,0 +1,15 @@
+current directory: /Users/marieazcueta/Portfolio/blarghie.github.io/vendor/cache/ruby/2.4.0/gems/posix-spawn-0.3.11/ext
+/Users/marieazcueta/.rvm/rubies/ruby-2.4.0/bin/ruby -r ./siteconf20170703-51678-4309jp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/marieazcueta/Portfolio/blarghie.github.io/vendor/cache/ruby/2.4.0/gems/posix-spawn-0.3.11/ext
+make "DESTDIR=" clean
+
+current directory: /Users/marieazcueta/Portfolio/blarghie.github.io/vendor/cache/ruby/2.4.0/gems/posix-spawn-0.3.11/ext
+make "DESTDIR="
+compiling posix-spawn.c
+linking shared-object posix_spawn_ext.bundle
+
+current directory: /Users/marieazcueta/Portfolio/blarghie.github.io/vendor/cache/ruby/2.4.0/gems/posix-spawn-0.3.11/ext
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 posix_spawn_ext.bundle ./.gem.20170703-51678-ivgzel
