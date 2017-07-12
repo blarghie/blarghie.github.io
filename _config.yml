@@ -8,5 +8,5 @@ url: "http://marieazcueta.com"
 # Build settings
 markdown: kramdown
 permalink: none
-exclude: [Gemfile*]
+exclude: [Gemfile*, vendor/]
 category-list: ['Dashboard', 'Styleguide', 'Apps', 'Design']
