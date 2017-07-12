@@ -1,0 +1,77 @@
+---
+layout: default
+---
+<header class="in-pages">
+
+ <div class="header lg-dstop ">
+     <a href="{{ base.url }}/index.html"><h1>marie azcueta</h1></a><br />
+    <span class="small">visual &amp; interactive designer/illustrator</span>
+ </div> <!-- end lg-dstop header -->
+
+  <div class="header sm-mobile">
+    <h1>
+      <a href="{{ base.url }}/index.html"><img src="{{ base.url }}/images/marieazc-02.png" alt="marie azcueta logo"/></a>
+    </h1>
+  </div> <!-- end sm header -->
+   <div class="menu">
+    <ul>  
+      <li class="blue">
+           <a href="{{ base.url }}/category/branding/index.html"> 
+                <div>Branding</div>
+           </a>
+      </li> 
+      
+      <li class="">
+        <a href="{{ base.url }}/category/dashboards/index.html"> 
+          <div>Dashboards</div>
+        </a>
+       </li> 
+
+       <li class="orange selected">
+          <div>Mobile</div>
+        </a>
+       </li>       
+
+      <li class="pull-right not-menus">
+        <a href="mailto:marieazc@gmail.com"> 
+          <div>Send me an email</div>
+        </a>
+       </li>  
+
+       <li class="pull-right not-menus">
+        <a href="{{ base.url }}/about/"> 
+          <div>More about me</div>
+        </a>
+       </li>  
+    </ul>
+ </div> <!-- end menu -->
+</header>
+
+<div >
+	<ul class="gallery-box">
+	{% for post in site.categories.branding %}
+	<a href="{{ post.url }}">
+	  <li class="">
+	      <div class="gallery-thumbnail">
+	      <div class="title cat-titles blue">{{ post.title }}</div>
+	      <div class="gallery-image"> 
+	      {% assign foundImage = 0 %}
+	      {% assign images = post.content | split:"<img " %}
+	      {% for image in images %}
+	        {% if image contains 'src' %}
+
+	            {% if foundImage == 0 %}
+	                {% assign html = image | split:"/>" | first %}
+	                <img {{ html }} alt="{{ post.title}}" title="Branding Feature Image"/>
+	                {% assign foundImage = 1 %}
+	            {% endif %}
+	        {% endif %}
+	      {% endfor %}
+	        </div>
+	      </div>
+	    </li>
+	    </a>
+	{% endfor %}
+	</ul>
+
+</div>
