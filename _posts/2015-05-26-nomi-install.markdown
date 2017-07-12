@@ -2,7 +2,7 @@
 layout: post
 title:  "Beacon Fleet Manager"
 date:   2015-05-26 09:00:00
-category: ['Mobile']
+category: ['mobile']
 tags: ['Nomi', 'Apps', 'Mobile']
 ---
 <div class="text-block">

@@ -2,7 +2,7 @@
 layout: post
 title:  "Patch Mobile First Redesign"
 date:   2015-05-26 04:00:00
-categories: ['Mobile', 'Branding']
+categories: ['mobile', 'branding']
 tags: ['Patch', 'Apps', 'Redesign', 'Mobile']
 ---
 

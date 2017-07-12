@@ -2,7 +2,7 @@
 layout: post
 title:  "Patch Perks App"
 date:   2015-05-26 10:00:00
-categories: ['Mobile', 'Dashboards']
+categories: ['mobile', 'dashboards']
 tags: ['Patch', 'Apps', 'Redesign', 'Mobile']
 ---
 

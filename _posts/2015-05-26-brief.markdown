@@ -2,7 +2,7 @@
 layout: post
 title:  "Brief"
 date:   2015-05-26 10:00:00
-category: ['Mobile', 'Branding']
+category: ['mobile', 'branding']
 tags: ['Brief', 'Apps', 'Mobile']
 ---
 <div class="text-block">
