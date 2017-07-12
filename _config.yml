@@ -2,11 +2,11 @@
 title: Marie Azcueta
 email: marieazc@gmail.com
 description: "Graphic Designer > Product Designer > Visual Designer at Bloomberg UX "
-baseurl: "http://marieazcueta.com"
+baseurl: " "
 url: "http://marieazcueta.com"
 
 # Build settings
 markdown: kramdown
 permalink: none
 exclude: [Gemfile*, vendor/]
-category-list: ['Dashboard', 'Styleguide', 'Apps', 'Design']
+category-list: ['dashboard', 'styleguide', 'apps', 'design']
