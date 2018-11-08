@@ -2,7 +2,7 @@
 layout: post
 title:  "Nomi Demo Apps"
 date:   2015-05-26 20:00:00
-categories: ['Mobile']
+categories: ['mobile']
 tags: ['Nomi', 'Apps', 'Mobile']
 ---
 <div class="text-block">
