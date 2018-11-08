@@ -156,6 +156,9 @@
 .not-menus{
   display: none !important;
 }
+.gallery-box{
+      display: inline-flex;
+}
 .gallery-thumbnail{
   height:   132px;
   overflow: hidden;  
