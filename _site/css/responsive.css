@@ -1,6 +1,6 @@
-@media screen and (max-width: 2000px) {
+@media screen and (max-width: 4000px) {
   .wrapper {
-    width: 960px;
+    width: 980px;
     margin: 0 auto; 
   }
   .sm-mobile{
