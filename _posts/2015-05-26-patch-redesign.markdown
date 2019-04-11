@@ -10,7 +10,6 @@ tags: ['Redesign', 'Patch']
 Patch is a local news site, it was envioned to be an online bulletin board for communities. At Patch we kept testing various homepage designs to see what drove the most clicks. As the brand evolved so did the homepage. <br /><br />
 
 Our team conducted various ethnographic research and user testing with focus groups and individuals to see if our product would be something our target users would use. We A/B tested UI and interactions to figure out which of our solutions was the easiest for users to interact with and to contribute content. Then we built it. 
-</span>
 
 </div>
 
