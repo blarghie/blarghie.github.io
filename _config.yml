@@ -1,12 +1,11 @@
 # Site settings
 title: Marie Azcueta
 email: marieazc@gmail.com
-description: "Graphic Designer > Product Designer > Visual Designer at Bloomberg UX "
-baseurl: " "
+description: "Graphic Designer > Product Designer > Visual Designer at Bloomberg UX " 
 url: "http://marieazcueta.com"
 
 # Build settings
 markdown: kramdown
 permalink: none
 exclude: [Gemfile*, vendor/]
-category-list: ['dashboard', 'styleguide', 'apps', 'design']
+category-list: ['bla', 'styleguide', 'apps', 'design']
