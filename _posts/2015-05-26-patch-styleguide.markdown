@@ -2,6 +2,7 @@
 layout: post
 title:  "Patch Styleguide"
 date:   2015-05-26 16:00:00
+category: ['-']
 tags: ['Styleguide', 'Patterns', 'Patch']
 ---
 

@@ -2,11 +2,11 @@
 layout: post
 title:  "Nomi Redesign"
 date:   2015-05-26 24:00:00
-categories: ['-']
+categories: ['branding']
 tags: ['Nomi', 'Dashboard', 'Redesign']
 ---
 <div class="text-block">
-The Listen Grid was my initial attempt to organize the data we collect in a manner that our users would be able to view &amp; manipulate it. After a year, we learned a lot about our users and how they use our product, mostly that they needed their associates to be able to analyze the data we collect without spending too much time on it. We then came up with  reports that made the data we have more digestible. <br /><br />
+The Listen Grid was my initial attempt to organize the data we collect in a manner that our users would be able to view &amp; manipulate it. After a year, we learned a lot about our users and how they use our product. They needed their associates to be able to analyze the data we collect without spending too much time on it. We then came up with  reports that made the data we have more digestible. <br /><br />
 </div>
 <div class="images">
 	<a href="{{ base.url }}/images/Nomi/nomi-redesign-00.png" data-lightbox="Nomi Redesign" title="A dashboard to give the user an overvew of a district's performance. There was a need to be able to surface aggragated data by a collection of floors and being able to easily select those and customizing dates. I designed a dashboard that gave the user what they needed and still allowed them the flexibility of viewing what store or metrics they specifically needed at a given time."><img src="{{ base.url }}/images/Nomi/nomi-redesign-00.png" /></a>
