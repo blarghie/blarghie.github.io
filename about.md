@@ -53,10 +53,12 @@ permalink: /about/
 <article class="text-block small">
     <p>Hi! Thank you for checking out my work. </p>
 <p>
-I'm a traditionally trained Graphic Designer. I went to college in Philadelphia, PA after falling in love with graphic design in a school in the Philippines where I grew up. I watched a lot of anime and read a lot of manga which made me want to try to make a career out of being able to draw. In Art School (University of the Arts) besides drawing letters, painting on sketchbooks and newsprint I focused on interactive media, mostly digital, mostly in Actionscript. I learned to code from creating digital solutions to design problems.
-</p>
-<p>
-I've primarily worked at botique design studios and startups. I attribute designing in tech now from a project in school where I plotted to design a programmable news network that integrated with a users' cable box. A user would be able to select to view the weather, traffic and types of news in a dashboard interface. It was inspired by people's morning routines and need of information while multi-tasking, getting ready for work or school. It was a practical challenge that I thought needed attention. I've applied that challenge since to problems I face at work. To tasks that can be made easier through technology and delightful user experiences.
+Marie Azcueta born in the Philippines, went to art school in Philadelphia and has been working in New York City startups, agencies and larger companies for over 10 years.
+ </p>
+ <p>
+I started working in the design field by consulting at agencies working on digital products and development for small museums and non-profit sites.  Then, I moved on to work with a team in 2009 that intended to enhance the web reading experience on netbooks by restyling digital publications into typographic layouts that clearly established focal points and hierarchy. Next, I worked as a consultant in brand agencies, and then start ups for hyperlocal news, then at a company that was aimed to enhance and optimize the retail and fast food experience in brick and mortar stores through location and proximity sensors. I'm currently a lead designer for the web design systems team as well as visual designer in the financial products team of Bloomberg UX.
+ </p>
+In my experience it has been very important to advocate for each other's ideas while being able to give constructive criticism. At Bloomberg I've been very proud to be part of a very diverse team coming from a range of generations, backgrounds and cultures. We are all able to contribute our opinions and they inform what we end up creating. I believe in empowering women and minority members especially those who haven't found their creative voice. In the future I would want to build a team myself that resonates with my beliefs and to continue to advocate for young, creative individuals seeking to find their voice and be able to provide the opportunity that I have been very lucky to come across.
 </p>
 <p>
 I have worked with amazing teams of engineers, product managers and designers. During the night that the redesigned Patch sites first went live (there were hundreds) we were huddled in a room until past midnight. A couple engineers and I added an easter egg in the sites so that when a user clicked on a specific link in the footer it would launch a credits roll with the team's illustrated avatars and dubbed titles.  When we each saw our names and avatars come up on the large screens we all got excited. It reminded us of the hard work, long nights and months we all spent designing, building, launching the redesign and how much it made us all into an incredible team and very good friends.
@@ -69,7 +71,7 @@ I have worked with amazing teams of engineers, product managers and designers. D
     ~ instagram: <a href="http://instagram.com/blarghie" class="lightRed">blarghie</a><br /><br />
 </p>
 <p>
-<a href="{{ base.url}}/images/azcueta-06-2015.pdf" class="lightRed">Here is my resumé</a>. If you like my work, let's talk. If you'd like to talk to people I've worked for for proof that I do great work please get a hold of me via the info I've provided above.
+<a href="{{ base.url}}/images/MAzcueta_2020.pdf" class="lightRed">Here is my resumé</a>. If you like my work, let's talk. If you'd like to talk to people I've worked for for proof that I do great work please get a hold of me via the info I've provided above.
 </p>
 
 </article>
