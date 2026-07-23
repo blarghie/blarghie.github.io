@@ -1,80 +1,81 @@
----
-layout: homepage
----
-<div>
-<ul class="gallery">
-      <li class="gallery-box">
-      {% for post in site.categories.branding limit:1 %} 
-        <a href="{{ base.url }}/category/branding"> 
-        <div class="gallery-thumbnail">
-        <div class="title homepage-titles blue" >{{ post.categories }}</div>
-        <div class="gallery-image homepage-thumb orangeBg"> 
-        {% assign foundImage = 0 %}
-        {% assign images = post.content | split:"<img " %}
-        {% for image in images %}
-          {% if image contains 'src' %}
+<html lang="en">
+<head>
+    <style>
+        body{
+            background-color: #F1F3FF;
+            color: #4F0D51;
+        }
+        
+        main{
+            padding: 40px;            
+        }
+        h1 {
 
-              {% if foundImage == 0 %}
-                  {% assign html = image | split:"/>" | first %}
-                  <img {{ html }} />
-                  {% assign foundImage = 1 %}
-              {% endif %}
-          {% endif %}
-        {% endfor %}
-          </div>
-        </div>
-        </a>
-        {% endfor %}
-      </li>
+        }
+        h2{
+            /* From Manila, based in Brooklyn, via Philly */
 
-     <li class="gallery-box">
-      {% for post in site.categories.dashboards limit:1 %} 
-        <a href="{{ base.url }}/category/dashboards/"> 
-        <div class="gallery-thumbnail">
-        <div class="title homepage-titles pink">{{ post.categories }}</div>
-        <div class="gallery-image homepage-thumb purpleBg"> 
-        {% assign foundImage = 0 %}
-        {% assign images = post.content | split:"<img " %}
-        {% for image in images %}
-          {% if image contains 'src' %}
 
-              {% if foundImage == 0 %}
-                  {% assign html = image | split:"/>" | first %}
-                  <img {{ html }} />
-                  {% assign foundImage = 1 %}
-              {% endif %}
-          {% endif %}
-        {% endfor %}
-          </div>
-        </div>
-        </a>
-        {% endfor %}
-      </li>
+            font-family: 'Ibarra Real Nova';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 68px;
+            line-height: 85px;
+        }
+        hr{
+            color:#CC8CEF;
+        }
+        p{
 
-      <li class="gallery-box">
-      {% for post in site.categories.mobile limit:1 %}  
-        <a href="{{ base.url }}/category/mobile/">
-        <div class="gallery-thumbnail">
-        <div class="title homepage-titles teal">{{ post.categories }}</div>
-        <div class="gallery-image homepage-thumb blueBg"> 
-        {% assign foundImage = 0 %}
-        {% assign images = post.content | split:"<img " %}
-        {% for image in images %}
-          {% if image contains 'src' %}
+            font-family: 'Ibarra Real Nova';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 46px;
+            line-height: 58px;
 
-              {% if foundImage == 0 %}
-                  {% assign html = image | split:"/>" | first %}
-                  <img {{ html }} />
-                  {% assign foundImage = 1 %}
-              {% endif %}
-          {% endif %}
-        {% endfor %}
-          </div>
-        </div>
-        </a>
-        {% endfor %}
-      </li>
- 
-  </ul>
+        }
+        ul{
+            margin: 0;
+            padding: 0;
+        }
+        ul li{
+            /* email: marieazc@gmail.com linkedin: marieazcueta instagram: @blarghie */
+            font-family: 'IBM Plex Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 42px;
+            text-decoration: none;
+            list-style-type: none;
+            padding: none;
+            margin: none;
+            /* or 175% */
+            color: #4F0D51;
+        }
+        a:link, a:hover, a:visited{
+            text-decoration: none;
+            /* or 175% */
+            color: #4F0D51;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Marie Azcueta</h1>
+        <p>
+            Graphic designer → Visual designer → UX designer → Product designer
+        </p>
+        <p>
+            Baker, sewist, gardener
 
-</div>
+        </p>
+        <hr>
+        <ul>
+            <li><a href="mailto:marieazc@gmail.com">marieazc@gmail.com</a></li>
+            <li><a href="mailto:marieazc@gmail.com">instagram: @blarghie</a></li>
+            <li><a href="mailto:marieazc@gmail.com">linkedin: @marieazcueta</a></li>
+        </ul>
+    </main>
+</body>
+
+</html>
